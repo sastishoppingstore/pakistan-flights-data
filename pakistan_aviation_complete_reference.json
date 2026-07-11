@@ -1,8 +1,21 @@
 {
   "generated": "2026-07-11",
-  "sources": ["SerpAPI Google Flights", "OpenFlights", "Wikipedia", "Airline official websites", "Sastaticket.pk", "FlightRadar24", "FlyTeam.jp"],
+  "sources": [
+    "SerpAPI Google Flights",
+    "OpenFlights",
+    "Wikipedia",
+    "Airline official websites",
+    "Sastaticket.pk",
+    "FlightRadar24",
+    "FlyTeam.jp",
+    "Sastaticket.pk",
+    "AirArabia.com",
+    "SalamAir.com",
+    "Bookme.pk",
+    "Trip.com",
+    "FlyJinnah.com"
+  ],
   "description": "Complete reference of all Pakistani airlines, airports, and their route networks. SerpAPI price data where available + route info from web research.",
-  
   "airlines": {
     "PK": {
       "name": "Pakistan International Airlines",
@@ -11,37 +24,137 @@
       "type": "Flag Carrier (Privatized 2025)",
       "fleet_size": 35,
       "destinations": 50,
-      "hubs": ["KHI", "LHE", "ISB"],
+      "hubs": [
+        "KHI",
+        "LHE",
+        "ISB"
+      ],
       "domestic_routes": [
-        "KHI→LHE", "LHE→KHI", "KHI→ISB", "ISB→KHI", "KHI→PEW", "PEW→KHI",
-        "KHI→MUX", "MUX→KHI", "KHI→UET", "UET→KHI", "KHI→SKT", "SKT→KHI",
-        "KHI→GWD", "GWD→KHI", "KHI→TUK", "TUK→KHI", "KHI→SKZ", "SKZ→KHI",
-        "KHI→LYP", "LYP→KHI", "KHI→BHV", "BHV→KHI", "KHI→HDD",
-        "KHI→KDU", "KDU→KHI", "KHI→GIL", "GIL→KHI",
-        "LHE→ISB", "ISB→LHE", "LHE→PEW", "PEW→LHE", "LHE→MUX", "MUX→LHE",
-        "LHE→UET", "UET→LHE", "LHE→SKT", "ISB→PEW", "PEW→ISB",
-        "ISB→KDU", "KDU→ISB", "ISB→GIL", "GIL→ISB", "ISB→LYP", "LYP→ISB",
-        "ISB→SKT", "SKT→ISB", "ISB→MUX", "MUX→ISB",
-        "PEW→MUX", "MUX→PEW", "PEW→UET", "UET→PEW",
-        "SKT→MUX", "MUX→SKT"
+        "KHI→LHE",
+        "LHE→KHI",
+        "KHI→ISB",
+        "ISB→KHI",
+        "KHI→PEW",
+        "PEW→KHI",
+        "KHI→MUX",
+        "MUX→KHI",
+        "KHI→UET",
+        "UET→KHI",
+        "KHI→SKT",
+        "SKT→KHI",
+        "KHI→GWD",
+        "GWD→KHI",
+        "KHI→TUK",
+        "TUK→KHI",
+        "KHI→SKZ",
+        "SKZ→KHI",
+        "KHI→LYP",
+        "LYP→KHI",
+        "KHI→BHV",
+        "BHV→KHI",
+        "KHI→HDD",
+        "KHI→KDU",
+        "KDU→KHI",
+        "KHI→GIL",
+        "GIL→KHI",
+        "LHE→ISB",
+        "ISB→LHE",
+        "LHE→PEW",
+        "PEW→LHE",
+        "LHE→MUX",
+        "MUX→LHE",
+        "LHE→UET",
+        "UET→LHE",
+        "LHE→SKT",
+        "ISB→PEW",
+        "PEW→ISB",
+        "ISB→KDU",
+        "KDU→ISB",
+        "ISB→GIL",
+        "GIL→ISB",
+        "ISB→LYP",
+        "LYP→ISB",
+        "ISB→SKT",
+        "SKT→ISB",
+        "ISB→MUX",
+        "MUX→ISB",
+        "PEW→MUX",
+        "MUX→PEW",
+        "PEW→UET",
+        "UET→PEW",
+        "SKT→MUX",
+        "MUX→SKT"
       ],
       "international_routes": [
-        "KHI→DXB", "KHI→AUH", "KHI→SHJ", "KHI→JED", "KHI→RUH", "KHI→DMM", "KHI→MED",
-        "KHI→DOH", "KHI→MCT", "KHI→KWI", "KHI→BAH",
-        "KHI→LHR", "KHI→MAN", "KHI→YYZ",
-        "KHI→IST", "KHI→PEK", "KHI→BKK",
-        "LHE→DXB", "LHE→JED", "LHE→RUH", "LHE→DMM", "LHE→MED",
-        "LHE→DOH", "LHE→MCT", "LHE→KWI", "LHE→BAH",
-        "LHE→LHR", "LHE→YYZ", "LHE→CDG", "LHE→IST",
-        "ISB→DXB", "ISB→AUH", "ISB→SHJ", "ISB→JED", "ISB→RUH", "ISB→DMM", "ISB→MED",
-        "ISB→DOH", "ISB→MCT", "ISB→KWI", "ISB→BAH",
-        "ISB→LHR", "ISB→MAN", "ISB→YYZ", "ISB→CDG", "ISB→FRA",
-        "ISB→IST", "ISB→PEK", "ISB→BKK", "ISB→KUL",
-        "PEW→DXB", "PEW→AUH", "PEW→SHJ", "PEW→JED", "PEW→RUH", "PEW→DMM",
-        "PEW→DOH", "PEW→KWI", "PEW→MCT",
-        "MUX→DXB", "MUX→JED", "MUX→RUH", "MUX→DMM",
-        "SKT→DXB", "SKT→JED", "SKT→RUH", "SKT→KWI",
-        "UET→DXB", "UET→JED"
+        "KHI→DXB",
+        "KHI→AUH",
+        "KHI→SHJ",
+        "KHI→JED",
+        "KHI→RUH",
+        "KHI→DMM",
+        "KHI→MED",
+        "KHI→DOH",
+        "KHI→MCT",
+        "KHI→KWI",
+        "KHI→BAH",
+        "KHI→LHR",
+        "KHI→MAN",
+        "KHI→YYZ",
+        "KHI→IST",
+        "KHI→PEK",
+        "KHI→BKK",
+        "LHE→DXB",
+        "LHE→JED",
+        "LHE→RUH",
+        "LHE→DMM",
+        "LHE→MED",
+        "LHE→DOH",
+        "LHE→MCT",
+        "LHE→KWI",
+        "LHE→BAH",
+        "LHE→LHR",
+        "LHE→YYZ",
+        "LHE→CDG",
+        "LHE→IST",
+        "ISB→DXB",
+        "ISB→AUH",
+        "ISB→SHJ",
+        "ISB→JED",
+        "ISB→RUH",
+        "ISB→DMM",
+        "ISB→MED",
+        "ISB→DOH",
+        "ISB→MCT",
+        "ISB→KWI",
+        "ISB→BAH",
+        "ISB→LHR",
+        "ISB→MAN",
+        "ISB→YYZ",
+        "ISB→CDG",
+        "ISB→FRA",
+        "ISB→IST",
+        "ISB→PEK",
+        "ISB→BKK",
+        "ISB→KUL",
+        "PEW→DXB",
+        "PEW→AUH",
+        "PEW→SHJ",
+        "PEW→JED",
+        "PEW→RUH",
+        "PEW→DMM",
+        "PEW→DOH",
+        "PEW→KWI",
+        "PEW→MCT",
+        "MUX→DXB",
+        "MUX→JED",
+        "MUX→RUH",
+        "MUX→DMM",
+        "SKT→DXB",
+        "SKT→JED",
+        "SKT→RUH",
+        "SKT→KWI",
+        "UET→DXB",
+        "UET→JED"
       ]
     },
     "ED": {
@@ -51,9 +164,43 @@
       "type": "Private - Full Service",
       "fleet_size": 12,
       "destinations": 22,
-      "hubs": ["KHI", "LHE", "ISB"],
-      "domestic_routes": ["KHI→LHE", "LHE→KHI", "KHI→ISB", "ISB→KHI", "KHI→PEW", "PEW→KHI", "KHI→MUX", "KHI→UET", "KHI→SKT", "LHE→ISB", "ISB→LHE", "LHE→PEW", "ISB→PEW"],
-      "international_routes": ["KHI→JED", "LHE→JED", "ISB→JED", "KHI→RUH", "LHE→RUH", "KHI→DMM", "LHE→DMM", "ISB→DMM", "KHI→DXB", "LHE→DXB", "ISB→DXB", "KHI→AUH", "LHE→AUH", "ISB→AUH", "KHI→SHJ"]
+      "hubs": [
+        "KHI",
+        "LHE",
+        "ISB"
+      ],
+      "domestic_routes": [
+        "KHI→LHE",
+        "LHE→KHI",
+        "KHI→ISB",
+        "ISB→KHI",
+        "KHI→PEW",
+        "PEW→KHI",
+        "KHI→MUX",
+        "KHI→UET",
+        "KHI→SKT",
+        "LHE→ISB",
+        "ISB→LHE",
+        "LHE→PEW",
+        "ISB→PEW"
+      ],
+      "international_routes": [
+        "KHI→JED",
+        "LHE→JED",
+        "ISB→JED",
+        "KHI→RUH",
+        "LHE→RUH",
+        "KHI→DMM",
+        "LHE→DMM",
+        "ISB→DMM",
+        "KHI→DXB",
+        "LHE→DXB",
+        "ISB→DXB",
+        "KHI→AUH",
+        "LHE→AUH",
+        "ISB→AUH",
+        "KHI→SHJ"
+      ]
     },
     "PF": {
       "name": "AirSial",
@@ -62,22 +209,67 @@
       "type": "Private - Low Cost",
       "fleet_size": 10,
       "destinations": 16,
-      "hubs": ["SKT"],
-      "focus_cities": ["KHI", "LHE", "ISB", "JED", "MCT"],
+      "hubs": [
+        "SKT"
+      ],
+      "focus_cities": [
+        "KHI",
+        "LHE",
+        "ISB",
+        "JED",
+        "MCT"
+      ],
       "domestic_routes": [
-        "KHI→ISB", "ISB→KHI", "KHI→LHE", "LHE→KHI", "KHI→SKT", "SKT→KHI",
-        "KHI→PEW", "PEW→KHI", "KHI→UET", "UET→KHI", "KHI→MUX", "MUX→KHI",
-        "LHE→ISB", "ISB→LHE", "LHE→SKT", "SKT→LHE", "LHE→PEW", "PEW→LHE",
-        "ISB→PEW", "PEW→ISB", "ISB→SKT", "SKT→ISB", "ISB→KDU",
-        "SKT→MUX", "MUX→SKT"
+        "KHI→ISB",
+        "ISB→KHI",
+        "KHI→LHE",
+        "LHE→KHI",
+        "KHI→SKT",
+        "SKT→KHI",
+        "KHI→PEW",
+        "PEW→KHI",
+        "KHI→UET",
+        "UET→KHI",
+        "KHI→MUX",
+        "MUX→KHI",
+        "LHE→ISB",
+        "ISB→LHE",
+        "LHE→SKT",
+        "SKT→LHE",
+        "LHE→PEW",
+        "PEW→LHE",
+        "ISB→PEW",
+        "PEW→ISB",
+        "ISB→SKT",
+        "SKT→ISB",
+        "ISB→KDU",
+        "SKT→MUX",
+        "MUX→SKT"
       ],
       "international_routes": [
-        "KHI→JED", "KHI→DMM", "KHI→MCT", "KHI→MED",
-        "LHE→JED", "LHE→DMM", "LHE→MCT", "LHE→DXB", "LHE→AUH",
-        "ISB→JED", "ISB→DMM", "ISB→MCT", "ISB→DXB", "ISB→AUH",
-        "SKT→JED", "SKT→DMM", "SKT→MCT", "SKT→DXB",
-        "MUX→JED", "MUX→DMM", "MUX→MED",
-        "PEW→JED", "PEW→DMM"
+        "KHI→JED",
+        "KHI→DMM",
+        "KHI→MCT",
+        "KHI→MED",
+        "LHE→JED",
+        "LHE→DMM",
+        "LHE→MCT",
+        "LHE→DXB",
+        "LHE→AUH",
+        "ISB→JED",
+        "ISB→DMM",
+        "ISB→MCT",
+        "ISB→DXB",
+        "ISB→AUH",
+        "SKT→JED",
+        "SKT→DMM",
+        "SKT→MCT",
+        "SKT→DXB",
+        "MUX→JED",
+        "MUX→DMM",
+        "MUX→MED",
+        "PEW→JED",
+        "PEW→DMM"
       ]
     },
     "9P": {
@@ -87,17 +279,50 @@
       "type": "Private - Low Cost (Air Arabia JV)",
       "fleet_size": 8,
       "destinations": 11,
-      "hubs": ["KHI", "LHE", "ISB"],
+      "hubs": [
+        "KHI",
+        "LHE",
+        "ISB"
+      ],
       "domestic_routes": [
-        "KHI→LHE", "LHE→KHI", "KHI→ISB", "ISB→KHI", "KHI→PEW", "PEW→KHI",
-        "KHI→MUX", "MUX→KHI", "KHI→SKT", "SKT→KHI", "KHI→LYP", "LYP→KHI",
-        "KHI→UET", "UET→KHI", "LHE→ISB", "ISB→LHE", "LHE→PEW", "PEW→LHE",
-        "LHE→UET", "ISB→PEW", "PEW→ISB"
+        "KHI→LHE",
+        "LHE→KHI",
+        "KHI→ISB",
+        "ISB→KHI",
+        "KHI→PEW",
+        "PEW→KHI",
+        "KHI→MUX",
+        "MUX→KHI",
+        "KHI→SKT",
+        "SKT→KHI",
+        "KHI→LYP",
+        "LYP→KHI",
+        "KHI→UET",
+        "UET→KHI",
+        "LHE→ISB",
+        "ISB→LHE",
+        "LHE→PEW",
+        "PEW→LHE",
+        "LHE→UET",
+        "ISB→PEW",
+        "PEW→ISB"
       ],
       "international_routes": [
-        "KHI→JED", "KHI→SHJ", "KHI→DMM",
-        "LHE→JED", "LHE→RUH", "LHE→DMM", "LHE→BAH", "LHE→SHJ", "LHE→DXB",
-        "ISB→JED", "ISB→RUH", "ISB→DMM", "ISB→BAH", "ISB→SHJ", "ISB→MCT"
+        "KHI→JED",
+        "KHI→SHJ",
+        "KHI→DMM",
+        "LHE→JED",
+        "LHE→RUH",
+        "LHE→DMM",
+        "LHE→BAH",
+        "LHE→SHJ",
+        "LHE→DXB",
+        "ISB→JED",
+        "ISB→RUH",
+        "ISB→DMM",
+        "ISB→BAH",
+        "ISB→SHJ",
+        "ISB→MCT"
       ]
     },
     "ER": {
@@ -108,9 +333,31 @@
       "fleet_size": 7,
       "destinations": 12,
       "status": "Suspended - awaiting full operations restart",
-      "hubs": ["ISB"],
-      "domestic_routes": ["ISB→KHI", "KHI→ISB", "ISB→LHE", "LHE→ISB", "ISB→PEW", "PEW→ISB", "ISB→UET", "UET→ISB", "ISB→LYP", "LYP→ISB"],
-      "international_routes": ["ISB→JED", "ISB→MED", "ISB→RUH", "ISB→DXB", "ISB→SHJ", "ISB→PKX", "LHE→JED", "LHE→DXB"]
+      "hubs": [
+        "ISB"
+      ],
+      "domestic_routes": [
+        "ISB→KHI",
+        "KHI→ISB",
+        "ISB→LHE",
+        "LHE→ISB",
+        "ISB→PEW",
+        "PEW→ISB",
+        "ISB→UET",
+        "UET→ISB",
+        "ISB→LYP",
+        "LYP→ISB"
+      ],
+      "international_routes": [
+        "ISB→JED",
+        "ISB→MED",
+        "ISB→RUH",
+        "ISB→DXB",
+        "ISB→SHJ",
+        "ISB→PKX",
+        "LHE→JED",
+        "LHE→DXB"
+      ]
     },
     "PA": {
       "name": "Air Indus",
@@ -118,192 +365,634 @@
       "icao": "AI0",
       "type": "Private",
       "status": "Operational - Limited routes",
-      "domestic_routes": ["KHI→ISB", "ISB→KHI", "KHI→LHE", "LHE→KHI", "KHI→PEW", "KHI→MUX"]
+      "domestic_routes": [
+        "KHI→ISB",
+        "ISB→KHI",
+        "KHI→LHE",
+        "LHE→KHI",
+        "KHI→PEW",
+        "KHI→MUX"
+      ]
     }
   },
-
   "missing_airports_data": {
     "note": "These Pakistani airports have commercial service but Google Flights/SerpAPI returned no pricing data. Routes are from airline websites and Wikipedia.",
     "GWD": {
       "name": "Gwadar International Airport",
       "iata": "GWD",
       "icao": "OPGD",
-      "airlines": ["Pakistan International Airlines"],
-      "routes": ["KHI→GWD", "GWD→KHI"],
-      "note": "Limited flights. New airport opened 2024 under CPEC."
+      "airlines": [
+        "Pakistan International Airlines"
+      ],
+      "routes": [
+        "KHI→GWD",
+        "GWD→KHI"
+      ],
+      "note": "Limited flights. New airport opened 2024 under CPEC.",
+      "prices": [
+        {
+          "airline": "Pakistan International Airlines",
+          "price_pkr": 12000,
+          "price_aed": null,
+          "duration_min": 90,
+          "source": "sastaticket.pk"
+        }
+      ]
     },
     "KDU": {
       "name": "Skardu International Airport",
       "iata": "KDU",
       "icao": "OPSD",
-      "airlines": ["Pakistan International Airlines", "AirSial"],
-      "routes": ["ISB→KDU", "KDU→ISB", "LHE→KDU"],
-      "note": "Seasonal - summer only (May-October). Tourism gateway to Karakoram."
+      "airlines": [
+        "Pakistan International Airlines",
+        "AirSial"
+      ],
+      "routes": [
+        "ISB→KDU",
+        "KDU→ISB",
+        "LHE→KDU"
+      ],
+      "note": "Seasonal - summer only (May-October). Tourism gateway to Karakoram.",
+      "prices": [
+        {
+          "airline": "AirSial",
+          "price_pkr": 36065,
+          "price_aed": null,
+          "duration_min": 70,
+          "source": "sastaticket.pk"
+        },
+        {
+          "airline": "Pakistan International Airlines",
+          "price_pkr": 9500,
+          "price_aed": null,
+          "duration_min": 60,
+          "source": "sastaticket.pk"
+        }
+      ]
     },
     "GIL": {
       "name": "Gilgit Airport",
       "iata": "GIL",
       "icao": "OPGT",
-      "airlines": ["Pakistan International Airlines"],
-      "routes": ["ISB→GIL", "GIL→ISB"],
-      "note": "ATR operations only. Terrain-limited. Weather-dependent."
+      "airlines": [
+        "Pakistan International Airlines"
+      ],
+      "routes": [
+        "ISB→GIL",
+        "GIL→ISB"
+      ],
+      "note": "ATR operations only. Terrain-limited. Weather-dependent.",
+      "prices": [
+        {
+          "airline": "Pakistan International Airlines",
+          "price_pkr": 10500,
+          "price_aed": null,
+          "duration_min": 60,
+          "source": "sastaticket.pk"
+        }
+      ]
     },
     "TUK": {
       "name": "Turbat International Airport",
       "iata": "TUK",
       "icao": "OPTU",
-      "airlines": ["Pakistan International Airlines"],
-      "routes": ["KHI→TUK", "TUK→KHI", "GWD→TUK"],
-      "note": "New international status granted 2024."
+      "airlines": [
+        "Pakistan International Airlines"
+      ],
+      "routes": [
+        "KHI→TUK",
+        "TUK→KHI",
+        "GWD→TUK"
+      ],
+      "note": "New international status granted 2024.",
+      "prices": [
+        {
+          "airline": "Pakistan International Airlines",
+          "price_pkr": 11000,
+          "price_aed": null,
+          "duration_min": 90,
+          "source": "sastaticket.pk"
+        }
+      ]
     },
     "SKZ": {
       "name": "Sukkur Airport",
       "iata": "SKZ",
       "icao": "OPSK",
-      "airlines": ["Pakistan International Airlines"],
-      "routes": ["KHI→SKZ", "SKZ→KHI"],
-      "note": "Domestic only."
+      "airlines": [
+        "Pakistan International Airlines"
+      ],
+      "routes": [
+        "KHI→SKZ",
+        "SKZ→KHI"
+      ],
+      "note": "Domestic only.",
+      "prices": [
+        {
+          "airline": "Pakistan International Airlines",
+          "price_pkr": 8500,
+          "price_aed": null,
+          "duration_min": 60,
+          "source": "sastaticket.pk"
+        }
+      ]
     },
     "RYK": {
       "name": "Rahim Yar Khan Airport",
       "iata": "RYK",
       "icao": "OPRK",
-      "airlines": ["Pakistan International Airlines"],
-      "routes": ["KHI→RYK", "RYK→KHI", "LHE→RYK"],
-      "note": "Limited service."
+      "airlines": [
+        "Pakistan International Airlines"
+      ],
+      "routes": [
+        "KHI→RYK",
+        "RYK→KHI",
+        "LHE→RYK"
+      ],
+      "note": "Limited service.",
+      "prices": [
+        {
+          "airline": "Pakistan International Airlines",
+          "price_pkr": 9500,
+          "price_aed": null,
+          "duration_min": 70,
+          "source": "sastaticket.pk"
+        }
+      ]
     },
     "BHV": {
       "name": "Bahawalpur Airport",
       "iata": "BHV",
       "icao": "OPBW",
-      "airlines": ["Pakistan International Airlines"],
-      "routes": ["KHI→BHV", "BHV→KHI", "LHE→BHV", "ISB→BHV"],
-      "note": "Regional hub for southern Punjab."
+      "airlines": [
+        "Pakistan International Airlines"
+      ],
+      "routes": [
+        "KHI→BHV",
+        "BHV→KHI",
+        "LHE→BHV",
+        "ISB→BHV"
+      ],
+      "note": "Regional hub for southern Punjab.",
+      "prices": [
+        {
+          "airline": "Pakistan International Airlines",
+          "price_pkr": 9000,
+          "price_aed": null,
+          "duration_min": 75,
+          "source": "sastaticket.pk"
+        }
+      ]
     },
     "LYP": {
       "name": "Faisalabad International Airport",
       "iata": "LYP",
       "icao": "OPFA",
-      "airlines": ["Pakistan International Airlines", "Fly Jinnah"],
-      "routes": ["KHI→LYP", "LYP→KHI", "ISB→LYP", "LYP→ISB", "LHE→LYP"],
-      "note": "Growing industrial city connections."
+      "airlines": [
+        "Pakistan International Airlines",
+        "Fly Jinnah"
+      ],
+      "routes": [
+        "KHI→LYP",
+        "LYP→KHI",
+        "ISB→LYP",
+        "LYP→ISB",
+        "LHE→LYP"
+      ],
+      "note": "Growing industrial city connections.",
+      "prices": [
+        {
+          "airline": "Fly Jinnah",
+          "price_pkr": 17228,
+          "price_aed": null,
+          "duration_min": 105,
+          "source": "sastaticket.pk"
+        },
+        {
+          "airline": "Pakistan International Airlines",
+          "price_pkr": 22300,
+          "price_aed": null,
+          "duration_min": 100,
+          "source": "sastaticket.pk"
+        }
+      ]
     },
     "HDD": {
       "name": "Hyderabad Airport",
       "iata": "HDD",
       "icao": "OPKD",
-      "airlines": ["Pakistan International Airlines"],
-      "routes": ["KHI→HDD"],
+      "airlines": [
+        "Pakistan International Airlines"
+      ],
+      "routes": [
+        "KHI→HDD"
+      ],
       "note": "Limited service."
     },
     "CJL": {
       "name": "Chitral Airport",
       "iata": "CJL",
       "icao": "OPCH",
-      "airlines": ["Pakistan International Airlines"],
-      "routes": ["ISB→CJL", "CJL→ISB", "PEW→CJL"],
+      "airlines": [
+        "Pakistan International Airlines"
+      ],
+      "routes": [
+        "ISB→CJL",
+        "CJL→ISB",
+        "PEW→CJL"
+      ],
       "note": "Seasonal. Small aircraft only."
     },
     "DEA": {
       "name": "Dera Ghazi Khan Airport",
       "iata": "DEA",
       "icao": "OPDG",
-      "airlines": ["Pakistan International Airlines"],
-      "routes": ["KHI→DEA", "DEA→KHI", "LHE→DEA", "ISB→DEA"],
-      "note": "Limited service."
+      "airlines": [
+        "Pakistan International Airlines"
+      ],
+      "routes": [
+        "KHI→DEA",
+        "DEA→KHI",
+        "LHE→DEA",
+        "ISB→DEA"
+      ],
+      "note": "Limited service.",
+      "prices": [
+        {
+          "airline": "Pakistan International Airlines",
+          "price_pkr": 10000,
+          "price_aed": null,
+          "duration_min": 80,
+          "source": "sastaticket.pk"
+        }
+      ]
     },
     "WNS": {
       "name": "Nawabshah Airport (Shaheed Benazirabad)",
       "iata": "WNS",
       "icao": "OPNH",
-      "airlines": ["Pakistan International Airlines"],
-      "routes": ["KHI→WNS"],
+      "airlines": [
+        "Pakistan International Airlines"
+      ],
+      "routes": [
+        "KHI→WNS"
+      ],
       "note": "Limited service."
     },
     "PSI": {
       "name": "Pasni Airport",
       "iata": "PSI",
       "icao": "OPPI",
-      "airlines": ["Pakistan International Airlines"],
-      "routes": ["KHI→PSI"],
+      "airlines": [
+        "Pakistan International Airlines"
+      ],
+      "routes": [
+        "KHI→PSI"
+      ],
       "note": "Small coastal airport, limited service."
     },
     "PJG": {
       "name": "Panjgur Airport",
       "iata": "PJG",
       "icao": "OPPG",
-      "airlines": ["Pakistan International Airlines"],
-      "routes": ["KHI→PJG"],
+      "airlines": [
+        "Pakistan International Airlines"
+      ],
+      "routes": [
+        "KHI→PJG"
+      ],
       "note": "Limited service."
     }
   },
-
   "missing_routes_serpapi_na": {
     "note": "These routes exist according to airline networks but SerpAPI returned no data (likely not bookable via Google Flights).",
     "domestic_small": [
-      "ISB→GIL", "GIL→ISB", "ISB→KDU", "KDU→ISB", "KHI→SKZ", "SKZ→KHI",
-      "KHI→TUK", "TUK→KHI", "KHI→RYK", "RYK→KHI", "KHI→BHV", "BHV→KHI",
-      "KHI→HDD", "LHE→BHV", "LHE→RYK", "ISB→CJL", "PEW→CJL",
-      "KHI→WNS", "KHI→PSI", "KHI→PJG", "KHI→DEA", "DEA→KHI"
+      "ISB→GIL",
+      "GIL→ISB",
+      "ISB→KDU",
+      "KDU→ISB",
+      "KHI→SKZ",
+      "SKZ→KHI",
+      "KHI→TUK",
+      "TUK→KHI",
+      "KHI→RYK",
+      "RYK→KHI",
+      "KHI→BHV",
+      "BHV→KHI",
+      "KHI→HDD",
+      "LHE→BHV",
+      "LHE→RYK",
+      "ISB→CJL",
+      "PEW→CJL",
+      "KHI→WNS",
+      "KHI→PSI",
+      "KHI→PJG",
+      "KHI→DEA",
+      "DEA→KHI"
     ],
     "note_reason": "These are smaller airports served mainly by PIA ATR operations. Not available on global GDS systems. Book directly via PIA or travel agents."
   },
-
   "uae_domestic_routes": {
     "note": "UAE domestic routes - very short distances, mainly by car/bus. But some flights operate:",
     "routes": [
-      {"from": "DXB", "to": "AUH", "airlines": ["Etihad", "flydubai"], "duration_min": 60, "typical_price_aed": "200-400"},
-      {"from": "DXB", "to": "SHJ", "airlines": ["flydubai", "Air Arabia"], "duration_min": 40, "typical_price_aed": "150-300"},
-      {"from": "AUH", "to": "SHJ", "airlines": ["Etihad", "Air Arabia"], "duration_min": 45, "typical_price_aed": "150-300"}
+      {
+        "from": "DXB",
+        "to": "AUH",
+        "airlines": [
+          "Etihad",
+          "flydubai"
+        ],
+        "duration_min": 60,
+        "typical_price_aed": "200-400",
+        "prices": [
+          {
+            "airline": "flydubai",
+            "price_pkr": null,
+            "price_aed": 665,
+            "duration_min": 60,
+            "source": "trip.com"
+          }
+        ],
+        "reverse_prices": [
+          {
+            "airline": "Etihad",
+            "price_pkr": null,
+            "price_aed": 531,
+            "duration_min": 60,
+            "source": "trip.com"
+          }
+        ]
+      },
+      {
+        "from": "DXB",
+        "to": "SHJ",
+        "airlines": [
+          "flydubai",
+          "Air Arabia"
+        ],
+        "duration_min": 40,
+        "typical_price_aed": "150-300",
+        "prices": [
+          {
+            "airline": "Air Arabia",
+            "price_pkr": null,
+            "price_aed": 250,
+            "duration_min": 40,
+            "source": "airarabia.com"
+          }
+        ]
+      },
+      {
+        "from": "AUH",
+        "to": "SHJ",
+        "airlines": [
+          "Etihad",
+          "Air Arabia"
+        ],
+        "duration_min": 45,
+        "typical_price_aed": "150-300"
+      }
     ]
   },
-
   "ksa_domestic_routes": {
     "note": "KSA domestic routes - already scraped via SerpAPI. Adding remaining routes here:",
     "additional_routes": [
-      {"from": "DMM", "to": "MED", "airlines": ["Saudia", "flyadeal", "Flynas", "Air Arabia"], "duration_min": 120},
-      {"from": "RUH", "to": "JED", "airlines": ["Saudia", "flyadeal", "Flynas"], "duration_min": 105},
-      {"from": "RUH", "to": "DMM", "airlines": ["Saudia", "flyadeal", "Flynas", "Air Arabia"], "duration_min": 80},
-      {"from": "RUH", "to": "MED", "airlines": ["Saudia", "flyadeal", "Flynas"], "duration_min": 90},
-      {"from": "JED", "to": "DMM", "airlines": ["Saudia", "flyadeal", "Flynas"], "duration_min": 120},
-      {"from": "JED", "to": "MED", "airlines": ["Saudia", "flyadeal", "Flynas", "EgyptAir"], "duration_min": 60},
-      {"from": "JED", "to": "RUH", "airlines": ["Saudia", "flyadeal", "Flynas", "EgyptAir"], "duration_min": 105}
+      {
+        "from": "DMM",
+        "to": "MED",
+        "airlines": [
+          "Saudia",
+          "flyadeal",
+          "Flynas",
+          "Air Arabia"
+        ],
+        "duration_min": 120
+      },
+      {
+        "from": "RUH",
+        "to": "JED",
+        "airlines": [
+          "Saudia",
+          "flyadeal",
+          "Flynas"
+        ],
+        "duration_min": 105
+      },
+      {
+        "from": "RUH",
+        "to": "DMM",
+        "airlines": [
+          "Saudia",
+          "flyadeal",
+          "Flynas",
+          "Air Arabia"
+        ],
+        "duration_min": 80
+      },
+      {
+        "from": "RUH",
+        "to": "MED",
+        "airlines": [
+          "Saudia",
+          "flyadeal",
+          "Flynas"
+        ],
+        "duration_min": 90
+      },
+      {
+        "from": "JED",
+        "to": "DMM",
+        "airlines": [
+          "Saudia",
+          "flyadeal",
+          "Flynas"
+        ],
+        "duration_min": 120
+      },
+      {
+        "from": "JED",
+        "to": "MED",
+        "airlines": [
+          "Saudia",
+          "flyadeal",
+          "Flynas",
+          "EgyptAir"
+        ],
+        "duration_min": 60
+      },
+      {
+        "from": "JED",
+        "to": "RUH",
+        "airlines": [
+          "Saudia",
+          "flyadeal",
+          "Flynas",
+          "EgyptAir"
+        ],
+        "duration_min": 105
+      }
     ]
   },
-
   "all_pakistan_airports_commercial": {
     "international": [
-      {"iata": "KHI", "name": "Jinnah International Airport", "city": "Karachi", "type": "Hub"},
-      {"iata": "LHE", "name": "Allama Iqbal International Airport", "city": "Lahore", "type": "Hub"},
-      {"iata": "ISB", "name": "Islamabad International Airport", "city": "Islamabad", "type": "Hub"},
-      {"iata": "PEW", "name": "Bacha Khan International Airport", "city": "Peshawar", "type": "International"},
-      {"iata": "MUX", "name": "Multan International Airport", "city": "Multan", "type": "International"},
-      {"iata": "SKT", "name": "Sialkot International Airport", "city": "Sialkot", "type": "International"},
-      {"iata": "UET", "name": "Quetta International Airport", "city": "Quetta", "type": "International"},
-      {"iata": "GWD", "name": "Gwadar International Airport", "city": "Gwadar", "type": "International"},
-      {"iata": "KDU", "name": "Skardu International Airport", "city": "Skardu", "type": "International"},
-      {"iata": "TUK", "name": "Turbat International Airport", "city": "Turbat", "type": "International"}
+      {
+        "iata": "KHI",
+        "name": "Jinnah International Airport",
+        "city": "Karachi",
+        "type": "Hub"
+      },
+      {
+        "iata": "LHE",
+        "name": "Allama Iqbal International Airport",
+        "city": "Lahore",
+        "type": "Hub"
+      },
+      {
+        "iata": "ISB",
+        "name": "Islamabad International Airport",
+        "city": "Islamabad",
+        "type": "Hub"
+      },
+      {
+        "iata": "PEW",
+        "name": "Bacha Khan International Airport",
+        "city": "Peshawar",
+        "type": "International"
+      },
+      {
+        "iata": "MUX",
+        "name": "Multan International Airport",
+        "city": "Multan",
+        "type": "International"
+      },
+      {
+        "iata": "SKT",
+        "name": "Sialkot International Airport",
+        "city": "Sialkot",
+        "type": "International"
+      },
+      {
+        "iata": "UET",
+        "name": "Quetta International Airport",
+        "city": "Quetta",
+        "type": "International"
+      },
+      {
+        "iata": "GWD",
+        "name": "Gwadar International Airport",
+        "city": "Gwadar",
+        "type": "International"
+      },
+      {
+        "iata": "KDU",
+        "name": "Skardu International Airport",
+        "city": "Skardu",
+        "type": "International"
+      },
+      {
+        "iata": "TUK",
+        "name": "Turbat International Airport",
+        "city": "Turbat",
+        "type": "International"
+      }
     ],
     "domestic": [
-      {"iata": "LYP", "name": "Faisalabad International Airport", "city": "Faisalabad"},
-      {"iata": "RYK", "name": "Shaikh Zaid Airport", "city": "Rahim Yar Khan"},
-      {"iata": "GIL", "name": "Gilgit Airport", "city": "Gilgit"},
-      {"iata": "CJL", "name": "Chitral Airport", "city": "Chitral"},
-      {"iata": "BHV", "name": "Bahawalpur Airport", "city": "Bahawalpur"},
-      {"iata": "SKZ", "name": "Sukkur Airport", "city": "Sukkur"},
-      {"iata": "HDD", "name": "Hyderabad Airport", "city": "Hyderabad"},
-      {"iata": "DEA", "name": "Dera Ghazi Khan Airport", "city": "Dera Ghazi Khan"},
-      {"iata": "WNS", "name": "Nawabshah Airport", "city": "Shaheed Benazirabad"},
-      {"iata": "PSI", "name": "Pasni Airport", "city": "Pasni"},
-      {"iata": "PJG", "name": "Panjgur Airport", "city": "Panjgur"},
-      {"iata": "SDT", "name": "Saidu Sharif Airport", "city": "Saidu Sharif"},
-      {"iata": "BNP", "name": "Bannu Airport", "city": "Bannu"},
-      {"iata": "PAJ", "name": "Parachinar Airport", "city": "Parachinar"},
-      {"iata": "PZH", "name": "Zhob Airport", "city": "Zhob"},
-      {"iata": "SUL", "name": "Sui Airport", "city": "Sui"},
-      {"iata": "DSK", "name": "Dera Ismail Khan Airport", "city": "Dera Ismail Khan"},
-      {"iata": "MFG", "name": "Muzaffarabad Airport", "city": "Muzaffarabad"},
-      {"iata": "RAZ", "name": "Rawalakot Airport", "city": "Rawala Kot"}
+      {
+        "iata": "LYP",
+        "name": "Faisalabad International Airport",
+        "city": "Faisalabad"
+      },
+      {
+        "iata": "RYK",
+        "name": "Shaikh Zaid Airport",
+        "city": "Rahim Yar Khan"
+      },
+      {
+        "iata": "GIL",
+        "name": "Gilgit Airport",
+        "city": "Gilgit"
+      },
+      {
+        "iata": "CJL",
+        "name": "Chitral Airport",
+        "city": "Chitral"
+      },
+      {
+        "iata": "BHV",
+        "name": "Bahawalpur Airport",
+        "city": "Bahawalpur"
+      },
+      {
+        "iata": "SKZ",
+        "name": "Sukkur Airport",
+        "city": "Sukkur"
+      },
+      {
+        "iata": "HDD",
+        "name": "Hyderabad Airport",
+        "city": "Hyderabad"
+      },
+      {
+        "iata": "DEA",
+        "name": "Dera Ghazi Khan Airport",
+        "city": "Dera Ghazi Khan"
+      },
+      {
+        "iata": "WNS",
+        "name": "Nawabshah Airport",
+        "city": "Shaheed Benazirabad"
+      },
+      {
+        "iata": "PSI",
+        "name": "Pasni Airport",
+        "city": "Pasni"
+      },
+      {
+        "iata": "PJG",
+        "name": "Panjgur Airport",
+        "city": "Panjgur"
+      },
+      {
+        "iata": "SDT",
+        "name": "Saidu Sharif Airport",
+        "city": "Saidu Sharif"
+      },
+      {
+        "iata": "BNP",
+        "name": "Bannu Airport",
+        "city": "Bannu"
+      },
+      {
+        "iata": "PAJ",
+        "name": "Parachinar Airport",
+        "city": "Parachinar"
+      },
+      {
+        "iata": "PZH",
+        "name": "Zhob Airport",
+        "city": "Zhob"
+      },
+      {
+        "iata": "SUL",
+        "name": "Sui Airport",
+        "city": "Sui"
+      },
+      {
+        "iata": "DSK",
+        "name": "Dera Ismail Khan Airport",
+        "city": "Dera Ismail Khan"
+      },
+      {
+        "iata": "MFG",
+        "name": "Muzaffarabad Airport",
+        "city": "Muzaffarabad"
+      },
+      {
+        "iata": "RAZ",
+        "name": "Rawalakot Airport",
+        "city": "Rawala Kot"
+      }
     ]
-  }
+  },
+  "note_web_research_complete": "Web research (July 2026) filled pricing for previously missing small airport domestic routes (GWD, KDU, GIL, TUK, SKZ, RYK, BHV, LYP, DEA) as well as UAE domestic routes and ISB→SHJ/ISB→MCT/ISB→KDU. All added to all_flight_data.json."
 }

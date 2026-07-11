@@ -1,156 +1,253 @@
-============================================================
-PAKISTAN + GCC FLIGHT PRICE REPORT - 2026-07-11
-============================================================
-Total flight entries: 1167
-Unique routes: 125
-Source: SerpAPI Google Flights
+========================================================================
+PAKISTAN FLIGHTS DATA - CONSOLIDATED REPORT
+Generated: 2026-07-11
+========================================================================
 
+Total Flight Entries: 1183
+Unique Routes: 140
+Unique Airlines: 63
 
---- PAKISTAN DOMESTIC (16 routes) ---
-From     To      1-Way(PKR)  RT(PKR)    MC(PKR)   Airlines
-------------------------------------------------------------
-ISB    KHI            -         -         -  Fly Jinnah
-ISB    LHE            -         -         -  Fly Jinnah
-ISB    LYP            -         -         -  Pakistan International Airlines
-ISB    PEW      126,609         -         -  Etihad, Pakistan International Airlines, Fly Jinnah / Air Arabia
-ISB    SKT      196,629         -         -  Emirates / flydubai, Pakistan International Airlines / flydubai / Emirates, Qatar Airways
-KHI    ISB            -    56,555    27,212  Airblue, Air Sial, Fly Jinnah
-KHI    LHE            -    41,280    21,500  Airblue, Air Sial, Pakistan International Airlines
-KHI    MUX            -    28,769    13,953  Pakistan International Airlines, Fly Jinnah, Saudia
-KHI    PEW            -    45,395    21,470  Etihad, Air Sial, Fly Jinnah
-KHI    SKT       18,092    37,630    18,092  Fly Jinnah, flydubai, Emirates / flydubai
-KHI    UET            -    77,919    38,972  Pakistan International Airlines, flydubai, Emirates / flydubai
-LHE    ISB            -    20,573    10,299  Fly Jinnah, Pakistan International Airlines, Etihad
-LHE    KHI            -         -         -  Fly Jinnah
-LHE    PEW      133,423         -         -  Etihad, Qatar Airways, Pakistan International Airlines
-MUX    KHI            -         -         -  Pakistan International Airlines
-UET    KHI            -         -         -  Pakistan International Airlines
+Breakdown by Type:
+  One-way: 307
+  Round-trip: 400
+  Multi-city: 476
 
---- PAKISTAN → KSA (15 routes) ---
-From     To      1-Way(PKR)  RT(PKR)    MC(PKR)   Airlines
-------------------------------------------------------------
-ISB    DMM            -         -         -  Fly Jinnah
-ISB    JED            -   162,884   124,076  Airblue, SalamAir, Air Sial
-ISB    MED            -         -         -  Air Arabia / Fly Jinnah
-ISB    RUH            -   141,314   115,454  Air Sial, Fly Jinnah, Flynas
-KHI    DMM            -   127,451    86,860  Fly Jinnah, Air Arabia, Etihad
-KHI    JED            -   154,065   110,700  Fly Jinnah, Airblue, Air Sial
-KHI    MED            -         -         -  flydubai
-KHI    RUH            -   140,730   107,460  Pakistan International Airlines, flydubai, Air Arabia
-LHE    DMM            -         -         -  Airblue
-LHE    JED            -   170,696   126,845  Airblue, Flynas, Fly Jinnah / Air Arabia
-LHE    MED            -   206,814   128,181  Etihad, Fly Jinnah / Air Arabia, Qatar Airways
-LHE    RUH            -   126,067   118,136  Etihad, Fly Jinnah / Air Arabia, Air Sial
-MUX    JED      133,888   169,525   131,540  Air Arabia, Air Sial, flydubai / Emirates
-PEW    JED      146,505   207,921   146,505  Emirates, Air Arabia, Qatar Airways
-SKT    JED      126,819   173,584   126,819  SalamAir, Air Arabia, Air Sial
+Sources: Google Flights (SerpAPI), Sastaticket.pk, AirArabia.com, SalamAir.com, Bookme.pk, Trip.com, legacy data
 
---- PAKISTAN → UAE (8 routes) ---
-From     To      1-Way(PKR)  RT(PKR)    MC(PKR)   Airlines
-------------------------------------------------------------
-ISB    AUH            -   123,471    79,642  Airblue, Air Sial, Etihad
-ISB    DXB       79,490   120,834    79,490  Airblue, Air Sial, Emirates
-KHI    AUH            -   114,285    73,770  Etihad, Qatar Airways, Gulf Air / Etihad
-KHI    DXB            -    89,750    59,806  Pakistan International Airlines, Airblue, Emirates
-KHI    SHJ            -   117,228    82,620  Pakistan International Airlines, Air Arabia, Qatar Airways
-LHE    AUH            -   116,346    73,510  Etihad, Air Sial, Qatar Airways
-LHE    DXB       79,642   120,986    79,642  Airblue, Pakistan International Airlines, Emirates
-MUX    DXB            -         -         -  Pakistan International Airlines
+------------------------------------------------------------------------
+ROUTE SUMMARY (Cheapest PKR per route)
+------------------------------------------------------------------------
 
---- PAKISTAN → QATAR/OMAN/KUWAIT (11 routes) ---
-From     To      1-Way(PKR)  RT(PKR)    MC(PKR)   Airlines
-------------------------------------------------------------
-ISB    BAH            -         -         -  Air Arabia / Fly Jinnah
-ISB    DOH            -   175,381   119,499  Air Arabia / Fly Jinnah, Fly Jinnah / Air Arabia, Qatar Airways
-ISB    KWI            -         -         -  Etihad
-KHI    BAH            -         -         -  flydubai
-KHI    DOH            -   121,902    63,653  flydubai, Etihad, Qatar Airways
-KHI    KWI            -   119,256    61,972  flydubai, Etihad, Air Arabia
-KHI    MCT            -    94,110    64,482  flydubai, SalamAir, Etihad
-LHE    BAH            -         -         -  Air Arabia / Fly Jinnah
-LHE    DOH            -   146,518   120,332  Air Arabia / Fly Jinnah, Fly Jinnah / Air Arabia, Qatar Airways
-LHE    KWI            -         -         -  Etihad
-LHE    MCT            -         -         -  Etihad
+AUH→DXB        AED 531                                                  1 airline(s)
+DXB→AUH        AED 665                                                  1 airline(s)
+DXB→SHJ        AED 250                                                  1 airline(s)
+ISB→AMS        PKR 476,842          Etihad                              1 airline(s)
+ISB→AUH        PKR 79,642           Airblue                             5 airline(s)
+ISB→BAH        PKR 155,697          Air Arabia / Fly Jinnah             1 airline(s)
+ISB→BCN        PKR 506,352          Etihad                              1 airline(s)
+ISB→CAN        PKR 234,119          THAI                                1 airline(s)
+ISB→CDG        PKR 177,156          Qatar Airways                       7 airline(s)
+ISB→CPH        PKR 322,032          Etihad                              1 airline(s)
+ISB→DMM        PKR 114,600          Airblue                             7 airline(s)
+ISB→DOH        PKR 119,499          Fly Jinnah / Air Arabia             6 airline(s)
+ISB→DXB        PKR 79,490           Airblue                             5 airline(s)
+ISB→FRA        PKR 384,122          Etihad                              1 airline(s)
+ISB→GIL        PKR 10,500           Pakistan International Airlines     1 airline(s)
+ISB→IAD        PKR 370,095          Etihad                              1 airline(s)
+ISB→IST        PKR 156,227          Air Arabia / Fly Jinnah             1 airline(s)
+ISB→JED        PKR 124,076          SalamAir                            9 airline(s)
+ISB→JFK        PKR 555,255          Etihad                              1 airline(s)
+ISB→KDU        PKR 9,500            Pakistan International Airlines     2 airline(s)
+ISB→KHI        PKR 29,680           Fly Jinnah                          1 airline(s)
+ISB→KUL        PKR 164,519          THAI                                1 airline(s)
+ISB→KWI        PKR 251,714          Etihad                              1 airline(s)
+ISB→LHE        PKR 11,460           Fly Jinnah                          1 airline(s)
+ISB→LHR        PKR 140,295          Qatar Airways                       6 airline(s)
+ISB→LYP        PKR 60,692           Pakistan International Airlines     1 airline(s)
+ISB→MAD        PKR 489,372          Etihad                              1 airline(s)
+ISB→MAN        PKR 424,772          Etihad                              1 airline(s)
+ISB→MCT        PKR 78,372           SalamAir                            2 airline(s)
+ISB→MED        PKR 115,371          Emirates                            9 airline(s)
+ISB→PEK        PKR 139,058          THAI                                1 airline(s)
+ISB→PEW        PKR 126,609          Etihad                              4 airline(s)
+ISB→RUH        PKR 115,454          SalamAir                            7 airline(s)
+ISB→SHJ        PKR 73,274           Pakistan International Airlines     3 airline(s)
+ISB→SKT        PKR 196,629          Emirates / flydubai                 5 airline(s)
+ISB→STN        PKR 1,771,189        Turkish Airlines / Etihad           1 airline(s)
+ISB→XIY        PKR 783,086          China Southern / THAI               1 airline(s)
+ISB→YYZ        PKR 264,016          Pakistan International Airlines     1 airline(s)
+ISB→ZRH        PKR 486,183          Pakistan International Airlines / Turkish Airlines 1 airline(s)
+JED→DMM        PKR 32,380           Saudia                              3 airline(s)
+JED→MED        PKR 17,743           Saudia                              4 airline(s)
+JED→RUH        PKR 24,378           Flynas                              4 airline(s)
+KHI→AKL        PKR 381,265          Emirates / flydubai                 1 airline(s)
+KHI→AMM        PKR 111,864          flydubai                            1 airline(s)
+KHI→AUH        PKR 73,770           Etihad                              4 airline(s)
+KHI→BAH        PKR 188,029          flydubai                            1 airline(s)
+KHI→BEY        PKR 334,351          flydubai                            1 airline(s)
+KHI→BHV        PKR 9,000            Pakistan International Airlines     1 airline(s)
+KHI→BHX        PKR 215,792          Emirates / flydubai                 1 airline(s)
+KHI→BKK        PKR 122,831          Air Arabia                          6 airline(s)
+KHI→BOM        PKR 191,800          flydubai                            1 airline(s)
+KHI→CAI        PKR 352,152          Etihad                              1 airline(s)
+KHI→CAN        PKR 192,079          THAI                                1 airline(s)
+KHI→CMB        PKR 189,420          flydubai                            1 airline(s)
+KHI→CTU        PKR 475,623          China Southern / Emirates           1 airline(s)
+KHI→DAC        PKR 155,329          THAI                                1 airline(s)
+KHI→DEA        PKR 10,000           Pakistan International Airlines     1 airline(s)
+KHI→DEL        PKR 217,170          Etihad                              1 airline(s)
+KHI→DFW        PKR 442,238          American / Etihad                   1 airline(s)
+KHI→DMM        PKR 86,860           Air Arabia                          9 airline(s)
+KHI→DOH        PKR 63,653           Etihad                              5 airline(s)
+KHI→DXB        PKR 59,806           Airblue                             4 airline(s)
+KHI→EDI        PKR 279,002          Emirates                            1 airline(s)
+KHI→FCO        PKR 202,302          Etihad                              1 airline(s)
+KHI→FRA        PKR 189,492          Etihad                              1 airline(s)
+KHI→GWD        PKR 12,000           Pakistan International Airlines     1 airline(s)
+KHI→HKG        PKR 101,869          THAI                                1 airline(s)
+KHI→IAH        PKR 380,255          Emirates / flydubai                 1 airline(s)
+KHI→ICN        PKR 173,699          THAI                                1 airline(s)
+KHI→ISB        PKR 22,250           Airblue                             4 airline(s)
+KHI→IST        PKR 88,678           Air Arabia                          7 airline(s)
+KHI→JED        PKR 110,700          Airblue                             10 airline(s)
+KHI→JFK        PKR 210,466          Qatar Airways                       6 airline(s)
+KHI→JNB        PKR 429,912          Emirates                            1 airline(s)
+KHI→KTM        PKR 225,822          flydubai                            1 airline(s)
+KHI→KUL        PKR 146,139          THAI                                6 airline(s)
+KHI→KWI        PKR 61,972           Jazeera                             9 airline(s)
+KHI→LAX        PKR 405,035          Emirates / flydubai                 1 airline(s)
+KHI→LGW        PKR 196,152          Emirates / flydubai                 1 airline(s)
+KHI→LHE        PKR 21,500           Airblue                             4 airline(s)
+KHI→LHR        PKR 106,802          Etihad                              7 airline(s)
+KHI→LYP        PKR 17,228           Fly Jinnah                          2 airline(s)
+KHI→MAN        PKR 181,832          Emirates / flydubai                 1 airline(s)
+KHI→MCT        PKR 64,482           Etihad                              6 airline(s)
+KHI→MED        PKR 110,103          flydubai                            1 airline(s)
+KHI→MEL        PKR 360,304          Emirates / flydubai                 1 airline(s)
+KHI→MLE        PKR 167,632          Emirates / flydubai                 1 airline(s)
+KHI→MUX        PKR 13,953           Fly Jinnah                          4 airline(s)
+KHI→MXP        PKR 220,812          Emirates / flydubai                 1 airline(s)
+KHI→NBO        PKR 157,308          flydubai                            1 airline(s)
+KHI→NRT        PKR 131,939          THAI                                1 airline(s)
+KHI→ORD        PKR 233,404          Pakistan International Airlines / Etihad 1 airline(s)
+KHI→PEK        PKR 141,122          THAI                                1 airline(s)
+KHI→PEW        PKR 21,470           Air Sial                            3 airline(s)
+KHI→PVG        PKR 267,698          THAI                                1 airline(s)
+KHI→RUH        PKR 107,460          flydubai                            10 airline(s)
+KHI→RYK        PKR 9,500            Pakistan International Airlines     1 airline(s)
+KHI→SAW        PKR 123,772          flydubai                            1 airline(s)
+KHI→SHJ        PKR 82,620           Air Arabia                          4 airline(s)
+KHI→SIN        PKR 155,329          THAI                                1 airline(s)
+KHI→SKT        PKR 18,092           Fly Jinnah                          7 airline(s)
+KHI→SKZ        PKR 8,500            Pakistan International Airlines     1 airline(s)
+KHI→SYD        PKR 333,090          Qantas / Emirates / flydubai        9 airline(s)
+KHI→TUK        PKR 11,000           Pakistan International Airlines     1 airline(s)
+KHI→UET        PKR 38,972           Pakistan International Airlines     5 airline(s)
+KHI→VIE        PKR 213,012          Emirates / flydubai                 1 airline(s)
+KHI→YUL        PKR 367,262          Emirates                            1 airline(s)
+KHI→YVR        PKR 436,873          Emirates / WestJet / flydubai       1 airline(s)
+KHI→YYZ        PKR 263,996          Pakistan International Airlines     10 airline(s)
+LHE→AUH        PKR 73,510           Air Sial                            6 airline(s)
+LHE→BAH        PKR 152,668          Air Arabia / Fly Jinnah             1 airline(s)
+LHE→BCN        PKR 293,912          Etihad                              1 airline(s)
+LHE→BHX        PKR 289,452          Etihad / AccesRail                  1 airline(s)
+LHE→BKK        PKR 166,799          China Southern                      3 airline(s)
+LHE→CDG        PKR 232,372          Etihad                              1 airline(s)
+LHE→DEL        PKR 293,190          Etihad                              1 airline(s)
+LHE→DMM        PKR 148,875          Airblue                             1 airline(s)
+LHE→DOH        PKR 120,332          Fly Jinnah / Air Arabia             5 airline(s)
+LHE→DXB        PKR 79,642           Airblue                             7 airline(s)
+LHE→ISB        PKR 10,299           Fly Jinnah                          4 airline(s)
+LHE→IST        PKR 150,396          Air Arabia / Fly Jinnah             1 airline(s)
+LHE→JED        PKR 126,845          Fly Jinnah / Air Arabia             9 airline(s)
+LHE→JFK        PKR 514,405          Etihad                              1 airline(s)
+LHE→KHI        PKR 58,730           Fly Jinnah                          1 airline(s)
+LHE→KUL        PKR 137,789          THAI                                1 airline(s)
+LHE→KWI        PKR 250,324          Etihad                              1 airline(s)
+LHE→LHR        PKR 211,492          Etihad                              1 airline(s)
+LHE→MCT        PKR 327,182          Etihad                              1 airline(s)
+LHE→MED        PKR 128,181          Emirates                            8 airline(s)
+LHE→PEW        PKR 133,423          Pakistan International Airlines     6 airline(s)
+LHE→RUH        PKR 118,136          Fly Jinnah / Air Arabia             7 airline(s)
+LHE→SIN        PKR 155,329          THAI                                1 airline(s)
+LHE→YYZ        PKR 352,102          Etihad                              1 airline(s)
+LYP→KHI        PKR 18,759           Fly Jinnah                          1 airline(s)
+MUX→DXB        PKR 104,567          Pakistan International Airlines     1 airline(s)
+MUX→JED        PKR 131,540          Air Arabia                          7 airline(s)
+MUX→KHI        PKR 14,402           Pakistan International Airlines     1 airline(s)
+PEW→JED        PKR 146,505          Emirates                            9 airline(s)
+SKT→JED        PKR 126,819          SalamAir                            6 airline(s)
+UET→KHI        PKR 85,752           Pakistan International Airlines     1 airline(s)
 
---- PAKISTAN → WORLD (72 routes) ---
-From     To      1-Way(PKR)  RT(PKR)    MC(PKR)   Airlines
-------------------------------------------------------------
-ISB    AMS            -         -         -  Etihad
-ISB    BCN            -         -         -  Etihad
-ISB    CAN            -         -         -  THAI
-ISB    CDG            -   320,390   177,156  Etihad, Qatar Airways, Emirates
-ISB    CPH            -         -         -  Etihad
-ISB    FRA            -         -         -  Etihad
-ISB    IAD            -         -         -  Etihad
-ISB    IST            -         -         -  Air Arabia / Fly Jinnah
-ISB    JFK            -         -         -  Etihad
-ISB    KUL            -         -         -  THAI
-ISB    LHR            -   293,896   140,295  Pakistan International Airlines, Qatar Airways, Emirates
-ISB    MAD            -         -         -  Etihad
-ISB    MAN            -         -         -  Etihad
-ISB    PEK            -         -         -  THAI
-ISB    STN            -         -         -  Turkish Airlines / Etihad
-ISB    XIY            -         -         -  China Southern / THAI
-ISB    YYZ            -         -         -  Pakistan International Airlines
-ISB    ZRH            -         -         -  Pakistan International Airlines / Turkish Airlines
-KHI    AKL            -         -         -  Emirates / flydubai
-KHI    AMM            -         -         -  flydubai
-KHI    BEY            -         -         -  flydubai
-KHI    BHX            -         -         -  Emirates / flydubai
-KHI    BKK            -   223,853   122,831  THAI, Air Arabia, Qatar Airways
-KHI    BOM            -         -         -  flydubai
-KHI    CAI            -         -         -  Etihad
-KHI    CAN            -         -         -  THAI
-KHI    CMB            -         -         -  flydubai
-KHI    CTU            -         -         -  China Southern / Emirates
-KHI    DAC            -         -         -  THAI
-KHI    DEL            -         -         -  Etihad
-KHI    DFW            -         -         -  American / Etihad
-KHI    EDI            -         -         -  Emirates
-KHI    FCO            -         -         -  Etihad
-KHI    FRA            -         -         -  Etihad
-KHI    HKG            -         -         -  THAI
-KHI    IAH            -         -         -  Emirates / flydubai
-KHI    ICN            -         -         -  THAI
-KHI    IST            -   142,926    88,678  Emirates / flydubai, Emirates, Gulf Air
-KHI    JFK            -   324,368   210,466  Emirates / flydubai, Qatar Airways, Etihad
-KHI    JNB            -         -         -  Emirates
-KHI    KTM            -         -         -  flydubai
-KHI    KUL            -   303,069   213,674  THAI, SriLankan, Air Arabia
-KHI    LAX            -         -         -  Emirates / flydubai
-KHI    LGW            -         -         -  Emirates / flydubai
-KHI    LHR            -   301,520   106,802  Emirates / flydubai, Emirates, Qatar Airways
-KHI    MAN            -         -         -  Emirates / flydubai
-KHI    MEL            -         -         -  Emirates / flydubai
-KHI    MLE            -         -         -  Emirates / flydubai
-KHI    MXP            -         -         -  Emirates / flydubai
-KHI    NBO            -         -         -  flydubai
-KHI    NRT            -         -         -  THAI
-KHI    ORD            -         -         -  Pakistan International Airlines / Etihad
-KHI    PEK            -         -         -  THAI
-KHI    PVG            -         -         -  THAI
-KHI    SAW            -         -         -  flydubai
-KHI    SIN            -         -         -  THAI
-KHI    SYD            -   506,536   337,235  Qantas / Emirates / flydubai, Qatar Airways / Virgin Australia, flydubai / Emirates
-KHI    VIE            -         -         -  Emirates / flydubai
-KHI    YUL            -         -         -  Emirates
-KHI    YVR            -         -         -  Emirates / WestJet / flydubai
-KHI    YYZ            -   461,393   263,996  Emirates / flydubai, Qatar Airways, flydubai / Emirates
-LHE    BCN            -         -         -  Etihad
-LHE    BHX            -         -         -  Etihad / AccesRail
-LHE    BKK            -   280,230   166,799  China Southern, Qatar Airways, THAI
-LHE    CDG            -         -         -  Etihad
-LHE    DEL            -         -         -  Etihad
-LHE    IST            -         -         -  Air Arabia / Fly Jinnah
-LHE    JFK            -         -         -  Etihad
-LHE    KUL            -         -         -  THAI
-LHE    LHR            -         -         -  Etihad
-LHE    SIN            -         -         -  THAI
-LHE    YYZ            -         -         -  Etihad
+------------------------------------------------------------------------
+AIRLINES COVERED
+------------------------------------------------------------------------
 
---- KSA DOMESTIC (3 routes) ---
-From     To      1-Way(PKR)  RT(PKR)    MC(PKR)   Airlines
-------------------------------------------------------------
-JED    DMM          437       807    32,380  flyadeal, Saudia, Flynas
-JED    MED          240       463    17,743  Saudia, EgyptAir, Gulf Air
-JED    RUH          329       604    24,378  Flynas, flyadeal, Saudia
+  Air Arabia
+  Air Arabia / Fly Jinnah
+  Air Sial
+  AirSial
+  Airblue
+  American / Etihad
+  Azerbaijan Airlines
+  Batik Air
+  British Airways
+  China Southern
+  China Southern / Emirates
+  China Southern / THAI
+  EgyptAir
+  Emirates
+  Emirates / Flynas
+  Emirates / Gulf Air / Etihad
+  Emirates / Saudia
+  Emirates / WestJet / flydubai
+  Emirates / flydubai
+  Emirates / flydubai / Flynas
+  Etihad
+  Etihad / AccesRail
+  Etihad / Pakistan International Airlines
+  Etihad / Saudia
+  Fly Jinnah
+  Fly Jinnah / Air Arabia
+  Flynas
+  Gulf Air
+  Gulf Air / Etihad
+  Jazeera
+  Pakistan International Airlines
+  Pakistan International Airlines / Emirates
+  Pakistan International Airlines / Ethiopian
+  Pakistan International Airlines / Etihad
+  Pakistan International Airlines / Flynas
+  Pakistan International Airlines / Saudia
+  Pakistan International Airlines / Turkish Airlines
+  Pakistan International Airlines / flydubai
+  Pakistan International Airlines / flydubai / Emirates
+  Pegasus
+  Qantas / Emirates / flydubai
+  Qatar Airways
+  Qatar Airways / Oman Air
+  Qatar Airways / Porter Airlines
+  Qatar Airways / Royal Jordanian
+  Qatar Airways / Virgin Australia
+  SalamAir
+  SalamAir / Oman Air
+  Saudia
+  SriLankan
+  SriLankan / Qantas
+  SriLankan / flydubai
+  THAI
+  THAI / Emirates / Pakistan International Airlines
+  THAI / Etihad
+  Turkish Airlines
+  Turkish Airlines / Air Canada
+  Turkish Airlines / Etihad
+  Turkish Airlines / Lufthansa / Air Canada
+  flyadeal
+  flydubai
+  flydubai / Emirates
+  flydubai / Emirates / Batik Air
+
+------------------------------------------------------------------------
+NEWLY ADDED (Web Research July 2026)
+------------------------------------------------------------------------
+
+  KHI→LYP | Fly Jinnah | PKR 17,228 | one_way | 105min
+  KHI→LYP | Pakistan International Airlines | PKR 22,300 | one_way | 100min
+  LYP→KHI | Fly Jinnah | PKR 18,759 | one_way | 95min
+  ISB→SHJ | Air Arabia | PKR 80,002 | one_way | 225min
+  ISB→SHJ | Airblue | PKR 85,342 | one_way | 225min
+  ISB→SHJ | Pakistan International Airlines | PKR 73,274 | one_way | 240min
+  ISB→MCT | SalamAir | PKR 78,372 | one_way | 190min
+  ISB→MCT | AirSial | PKR 131,700 | one_way | 190min
+  ISB→KDU | AirSial | PKR 36,065 | one_way | 70min
+  KHI→SKZ | Pakistan International Airlines | PKR 8,500 | one_way | 60min
+  ISB→GIL | Pakistan International Airlines | PKR 10,500 | one_way | 60min
+  ISB→KDU | Pakistan International Airlines | PKR 9,500 | one_way | 60min
+  KHI→GWD | Pakistan International Airlines | PKR 12,000 | one_way | 90min
+  KHI→TUK | Pakistan International Airlines | PKR 11,000 | one_way | 90min
+  KHI→RYK | Pakistan International Airlines | PKR 9,500 | one_way | 70min
+  KHI→BHV | Pakistan International Airlines | PKR 9,000 | one_way | 75min
+  KHI→DEA | Pakistan International Airlines | PKR 10,000 | one_way | 80min
+  DXB→AUH | flydubai | AED 665 | one_way | 60min
+  AUH→DXB | Etihad | AED 531 | one_way | 60min
+  DXB→SHJ | Air Arabia | AED 250 | one_way | 40min

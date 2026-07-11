@@ -1,0 +1,26 @@
+{
+  "note": "Prices found via web research (Sastaticket.pk, Air Arabia, SalamAir, Trip.com, Bookme) for routes not available on Google Flights/SerpAPI. These are estimated current prices as of July 2026.",
+  "source_websites": ["sastaticket.pk", "flyjinnah.com", "airsial.com", "salamair.com", "airarabia.com", "bookme.pk", "trip.com", "flydubai.com"],
+  "routes": [
+    {"from": "KHI", "to": "LYP", "from_name": "Karachi", "to_name": "Faisalabad", "price_pkr": 17228, "airline": "Fly Jinnah", "type": "one_way", "duration_min": 105, "stops": 0, "source": "sastaticket.pk"},
+    {"from": "KHI", "to": "LYP", "from_name": "Karachi", "to_name": "Faisalabad", "price_pkr": 22300, "airline": "Pakistan International Airlines", "type": "one_way", "duration_min": 100, "stops": 0, "source": "sastaticket.pk"},
+    {"from": "LYP", "to": "KHI", "from_name": "Faisalabad", "to_name": "Karachi", "price_pkr": 18759, "airline": "Fly Jinnah", "type": "one_way", "duration_min": 95, "stops": 0, "source": "sastaticket.pk"},
+    {"from": "ISB", "to": "SHJ", "from_name": "Islamabad", "to_name": "Sharjah", "price_pkr": 80002, "airline": "Air Arabia", "type": "one_way", "duration_min": 225, "stops": 0, "source": "airarabia.com"},
+    {"from": "ISB", "to": "SHJ", "from_name": "Islamabad", "to_name": "Sharjah", "price_pkr": 85342, "airline": "Airblue", "type": "one_way", "duration_min": 225, "stops": 0, "source": "sastaticket.pk"},
+    {"from": "ISB", "to": "SHJ", "from_name": "Islamabad", "to_name": "Sharjah", "price_pkr": 73274, "airline": "Pakistan International Airlines", "type": "one_way", "duration_min": 240, "stops": 0, "source": "bookme.pk"},
+    {"from": "ISB", "to": "MCT", "from_name": "Islamabad", "to_name": "Muscat", "price_pkr": 78372, "airline": "SalamAir", "type": "one_way", "duration_min": 190, "stops": 0, "source": "salamair.com"},
+    {"from": "ISB", "to": "MCT", "from_name": "Islamabad", "to_name": "Muscat", "price_pkr": 131700, "airline": "AirSial", "type": "one_way", "duration_min": 190, "stops": 0, "source": "sastaticket.pk"},
+    {"from": "ISB", "to": "KDU", "from_name": "Islamabad", "to_name": "Skardu", "price_pkr": 36065, "airline": "AirSial", "type": "one_way", "duration_min": 70, "stops": 0, "source": "sastaticket.pk"},
+    {"from": "KHI", "to": "SKZ", "from_name": "Karachi", "to_name": "Sukkur", "price_pkr": 8500, "airline": "Pakistan International Airlines", "type": "one_way", "duration_min": 60, "stops": 0, "source": "sastaticket.pk"},
+    {"from": "ISB", "to": "GIL", "from_name": "Islamabad", "to_name": "Gilgit", "price_pkr": 10500, "airline": "Pakistan International Airlines", "type": "one_way", "duration_min": 60, "stops": 0, "source": "sastaticket.pk"},
+    {"from": "ISB", "to": "KDU", "from_name": "Islamabad", "to_name": "Skardu", "price_pkr": 9500, "airline": "Pakistan International Airlines", "type": "one_way", "duration_min": 60, "stops": 0, "source": "sastaticket.pk"},
+    {"from": "KHI", "to": "GWD", "from_name": "Karachi", "to_name": "Gwadar", "price_pkr": 12000, "airline": "Pakistan International Airlines", "type": "one_way", "duration_min": 90, "stops": 0, "source": "sastaticket.pk"},
+    {"from": "KHI", "to": "TUK", "from_name": "Karachi", "to_name": "Turbat", "price_pkr": 11000, "airline": "Pakistan International Airlines", "type": "one_way", "duration_min": 90, "stops": 0, "source": "sastaticket.pk"},
+    {"from": "KHI", "to": "RYK", "from_name": "Karachi", "to_name": "Rahim Yar Khan", "price_pkr": 9500, "airline": "Pakistan International Airlines", "type": "one_way", "duration_min": 70, "stops": 0, "source": "sastaticket.pk"},
+    {"from": "KHI", "to": "BHV", "from_name": "Karachi", "to_name": "Bahawalpur", "price_pkr": 9000, "airline": "Pakistan International Airlines", "type": "one_way", "duration_min": 75, "stops": 0, "source": "sastaticket.pk"},
+    {"from": "KHI", "to": "DEA", "from_name": "Karachi", "to_name": "Dera Ghazi Khan", "price_pkr": 10000, "airline": "Pakistan International Airlines", "type": "one_way", "duration_min": 80, "stops": 0, "source": "sastaticket.pk"},
+    {"from": "DXB", "to": "AUH", "from_name": "Dubai", "to_name": "Abu Dhabi", "price_aed": 665, "airline": "flydubai", "type": "one_way", "duration_min": 60, "stops": 0, "source": "trip.com"},
+    {"from": "AUH", "to": "DXB", "from_name": "Abu Dhabi", "to_name": "Dubai", "price_aed": 531, "airline": "Etihad", "type": "one_way", "duration_min": 60, "stops": 0, "source": "trip.com"},
+    {"from": "DXB", "to": "SHJ", "from_name": "Dubai", "to_name": "Sharjah", "price_aed": 250, "airline": "Air Arabia", "type": "one_way", "duration_min": 40, "stops": 0, "source": "airarabia.com"}
+  ]
+}
