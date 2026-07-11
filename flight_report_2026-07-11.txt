@@ -1,0 +1,126 @@
+PAKISTAN FLIGHT PRICES - 2026-07-11
+Source: Google Flights via SerpAPI (one-way, economy)
+Currency: PKR
+Total routes: 112 | Errors: 25
+====================================================================================================
+
+
+--- INTERNATIONAL ROUTES (101) ---
+From     To            Price(PKR) Airline                                  Stops 
+----------------------------------------------------------------------------------------------------
+ISB      AUH      PKR       79,642  Airblue                                  0     
+KHI      SHJ      PKR       88,957  Pakistan International Airlines          1     
+KHI      DXB      PKR       92,337  Pakistan International Airlines          1     
+KHI      HKG      PKR      101,869  THAI                                     1     
+KHI      MCT      PKR      102,544  flydubai                                 1     
+MUX      DXB      PKR      104,567  Pakistan International Airlines          2     
+KHI      KWI      PKR      105,842  flydubai                                 1     
+KHI      MED      PKR      110,103  flydubai                                 1     
+KHI      AMM      PKR      111,864  flydubai                                 1     
+KHI      AUH      PKR      114,700  Etihad                                   0     
+KHI      DOH      PKR      114,932  flydubai                                 1     
+KHI      DMM      PKR      123,280  Fly Jinnah                               0     
+KHI      SAW      PKR      123,772  flydubai                                 1     
+ISB      DMM      PKR      131,522  Fly Jinnah                               0     
+KHI      NRT      PKR      131,939  THAI                                     1     
+KHI      JED      PKR      136,377  Fly Jinnah                               0     
+LHE      KUL      PKR      137,789  THAI                                     1     
+ISB      RUH      PKR      138,990  Air Sial                                 0     
+ISB      PEK      PKR      139,058  THAI                                     1     
+KHI      PEK      PKR      141,122  THAI                                     1     
+KHI      BKK      PKR      142,243  THAI                                     0     
+LHE      JED      PKR      143,250  Airblue                                  0     
+ISB      JED      PKR      143,250  Airblue                                  0     
+KHI      KUL      PKR      146,139  THAI                                     1     
+LHE      DMM      PKR      148,875  Airblue                                  0     
+LHE      IST      PKR      150,396  Air Arabia / Fly Jinnah                  1     
+LHE      DOH      PKR      151,002  Air Arabia / Fly Jinnah                  1     
+LHE      BAH      PKR      152,668  Air Arabia / Fly Jinnah                  1     
+KHI      IST      PKR      154,822  Emirates / flydubai                      1     
+KHI      SIN      PKR      155,329  THAI                                     1     
+LHE      SIN      PKR      155,329  THAI                                     1     
+KHI      DAC      PKR      155,329  THAI                                     1     
+ISB      BAH      PKR      155,697  Air Arabia / Fly Jinnah                  1     
+ISB      DOH      PKR      155,849  Air Arabia / Fly Jinnah                  1     
+ISB      IST      PKR      156,227  Air Arabia / Fly Jinnah                  1     
+KHI      NBO      PKR      157,308  flydubai                                 1     
+ISB      KUL      PKR      164,519  THAI                                     1     
+LHE      BKK      PKR      166,799  China Southern                           1     
+KHI      MLE      PKR      167,632  Emirates / flydubai                      1     
+ISB      MED      PKR      168,117  Air Arabia / Fly Jinnah                  1     
+KHI      ICN      PKR      173,699  THAI                                     1     
+LHE      AUH      PKR      173,730  Etihad                                   0     
+KHI      RUH      PKR      179,940  Pakistan International Airlines          1     
+KHI      MAN      PKR      181,832  Emirates / flydubai                      1     
+KHI      BAH      PKR      188,029  flydubai                                 1     
+KHI      CMB      PKR      189,420  flydubai                                 1     
+KHI      FRA      PKR      189,492  Etihad                                   1     
+KHI      BOM      PKR      191,800  flydubai                                 1     
+KHI      CAN      PKR      192,079  THAI                                     1     
+KHI      LGW      PKR      196,152  Emirates / flydubai                      1     
+KHI      FCO      PKR      202,302  Etihad                                   1     
+LHE      LHR      PKR      211,492  Etihad                                   1     
+KHI      VIE      PKR      213,012  Emirates / flydubai                      1     
+KHI      BHX      PKR      215,792  Emirates / flydubai                      1     
+KHI      DEL      PKR      217,170  Etihad                                   1     
+KHI      LHR      PKR      217,472  Emirates / flydubai                      1     
+KHI      MXP      PKR      220,812  Emirates / flydubai                      1     
+KHI      KTM      PKR      225,822  flydubai                                 1     
+LHE      CDG      PKR      232,372  Etihad                                   1     
+KHI      ORD      PKR      233,404  Pakistan International Airlines / Etihad 2     
+ISB      CAN      PKR      234,119  THAI                                     1     
+LHE      KWI      PKR      250,324  Etihad                                   1     
+ISB      KWI      PKR      251,714  Etihad                                   1     
+LHE      MED      PKR      256,411  Etihad                                   1     
+ISB      YYZ      PKR      264,016  Pakistan International Airlines          2     
+KHI      PVG      PKR      267,698  THAI                                     1     
+ISB      LHR      PKR      277,934  Pakistan International Airlines          2     
+KHI      EDI      PKR      279,002  Emirates                                 1     
+LHE      BHX      PKR      289,452  Etihad / AccesRail                       3     
+LHE      DEL      PKR      293,190  Etihad                                   1     
+LHE      BCN      PKR      293,912  Etihad                                   1     
+ISB      CPH      PKR      322,032  Etihad                                   1     
+LHE      MCT      PKR      327,182  Etihad                                   1     
+KHI      SYD      PKR      333,090  Qantas / Emirates / flydubai             2     
+KHI      BEY      PKR      334,351  flydubai                                 1     
+KHI      YYZ      PKR      343,882  Emirates / flydubai                      1     
+LHE      YYZ      PKR      352,102  Etihad                                   1     
+KHI      CAI      PKR      352,152  Etihad                                   1     
+KHI      JFK      PKR      355,475  Emirates / flydubai                      1     
+KHI      MEL      PKR      360,304  Emirates / flydubai                      1     
+KHI      YUL      PKR      367,262  Emirates                                 1     
+ISB      IAD      PKR      370,095  Etihad                                   1     
+KHI      IAH      PKR      380,255  Emirates / flydubai                      1     
+KHI      AKL      PKR      381,265  Emirates / flydubai                      1     
+ISB      FRA      PKR      384,122  Etihad                                   1     
+KHI      LAX      PKR      405,035  Emirates / flydubai                      1     
+ISB      MAN      PKR      424,772  Etihad                                   1     
+KHI      JNB      PKR      429,912  Emirates                                 1     
+KHI      YVR      PKR      436,873  Emirates / WestJet / flydubai            2     
+KHI      DFW      PKR      442,238  American / Etihad                        2     
+ISB      CDG      PKR      448,162  Etihad                                   1     
+KHI      CTU      PKR      475,623  China Southern / Emirates                2     
+ISB      AMS      PKR      476,842  Etihad                                   1     
+ISB      ZRH      PKR      486,183  Pakistan International Airlines / Turkish Airlines 2     
+ISB      MAD      PKR      489,372  Etihad                                   1     
+ISB      BCN      PKR      506,352  Etihad                                   1     
+LHE      JFK      PKR      514,405  Etihad                                   1     
+ISB      JFK      PKR      555,255  Etihad                                   1     
+ISB      XIY      PKR      783,086  China Southern / THAI                    2     
+LHE      RUH      PKR      853,455  Etihad                                   1     
+ISB      STN      PKR    1,771,189  Turkish Airlines / Etihad                2     
+
+--- DOMESTIC ROUTES (11) ---
+From     To            Price(PKR) Airline                                  Stops 
+----------------------------------------------------------------------------------------------------
+ISB      LHE      PKR       11,460  Fly Jinnah                               0     
+LHE      ISB      PKR       11,460  Fly Jinnah                               0     
+MUX      KHI      PKR       14,402  Pakistan International Airlines          0     
+KHI      ISB      PKR       22,250  Airblue                                  0     
+KHI      LHE      PKR       24,170  Airblue                                  0     
+ISB      KHI      PKR       29,680  Fly Jinnah                               0     
+LHE      KHI      PKR       58,730  Fly Jinnah                               0     
+ISB      LYP      PKR       60,692  Pakistan International Airlines          1     
+UET      KHI      PKR       85,752  Pakistan International Airlines          1     
+KHI      UET      PKR      121,112  Pakistan International Airlines          1     
+KHI      PEW      PKR      169,209  Etihad                                   1     

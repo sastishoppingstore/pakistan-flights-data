@@ -1,0 +1,113 @@
+from,from_name,to,to_name,price_pkr,airline,duration_min,stops
+KHI,Karachi,DXB,Dubai,92337,Pakistan International Airlines,1835,1
+MUX,Multan,DXB,Dubai,104567,Pakistan International Airlines,2035,2
+KHI,Karachi,AUH,Abu Dhabi,114700,Etihad,125,0
+LHE,Lahore,AUH,Abu Dhabi,173730,Etihad,200,0
+ISB,Islamabad,AUH,Abu Dhabi,79642,Airblue,210,0
+KHI,Karachi,SHJ,Sharjah,88957,Pakistan International Airlines,1080,1
+KHI,Karachi,JED,Jeddah,136377,Fly Jinnah,255,0
+LHE,Lahore,JED,Jeddah,143250,Airblue,340,0
+ISB,Islamabad,JED,Jeddah,143250,Airblue,340,0
+KHI,Karachi,RUH,Riyadh,179940,Pakistan International Airlines,1015,1
+LHE,Lahore,RUH,Riyadh,853455,Etihad,540,1
+ISB,Islamabad,RUH,Riyadh,138990,Air Sial,300,0
+KHI,Karachi,DMM,Dammam,123280,Fly Jinnah,175,0
+LHE,Lahore,DMM,Dammam,148875,Airblue,255,0
+ISB,Islamabad,DMM,Dammam,131522,Fly Jinnah,235,0
+KHI,Karachi,MED,Madinah,110103,flydubai,1560,1
+LHE,Lahore,MED,Madinah,256411,Etihad,1345,1
+ISB,Islamabad,MED,Madinah,168117,Air Arabia / Fly Jinnah,1140,1
+KHI,Karachi,LHR,London Heathrow,217472,Emirates / flydubai,990,1
+LHE,Lahore,LHR,London Heathrow,211492,Etihad,915,1
+ISB,Islamabad,LHR,London Heathrow,277934,Pakistan International Airlines,3000,2
+KHI,Karachi,BHX,Birmingham,215792,Emirates / flydubai,995,1
+LHE,Lahore,BHX,Birmingham,289452,Etihad / AccesRail,1551,3
+KHI,Karachi,MAN,Manchester,181832,Emirates / flydubai,965,1
+ISB,Islamabad,MAN,Manchester,424772,Etihad,905,1
+ISB,Islamabad,STN,London Stansted,1771189,Turkish Airlines / Etihad,2530,2
+KHI,Karachi,LGW,London Gatwick,196152,Emirates / flydubai,1000,1
+KHI,Karachi,EDI,Edinburgh,279002,Emirates,1510,1
+KHI,Karachi,JFK,New York JFK,355475,Emirates / flydubai,1410,1
+ISB,Islamabad,JFK,New York JFK,555255,Etihad,1755,1
+KHI,Karachi,ORD,Chicago,233404,Pakistan International Airlines / Etihad,3100,2
+KHI,Karachi,IAH,Houston,380255,Emirates / flydubai,1615,1
+KHI,Karachi,LAX,Los Angeles,405035,Emirates / flydubai,1580,1
+ISB,Islamabad,IAD,Washington DC,370095,Etihad,1380,1
+KHI,Karachi,DFW,Dallas,442238,American / Etihad,2700,2
+LHE,Lahore,JFK,New York JFK,514405,Etihad,1755,1
+KHI,Karachi,YVR,Vancouver,436873,Emirates / WestJet / flydubai,1580,2
+ISB,Islamabad,YYZ,Toronto,264016,Pakistan International Airlines,1935,2
+KHI,Karachi,YYZ,Toronto,343882,Emirates / flydubai,1115,1
+LHE,Lahore,YYZ,Toronto,352102,Etihad,1330,1
+KHI,Karachi,YUL,Montreal,367262,Emirates,1085,1
+KHI,Karachi,KWI,Kuwait,105842,flydubai,1110,1
+LHE,Lahore,KWI,Kuwait,250324,Etihad,910,1
+ISB,Islamabad,KWI,Kuwait,251714,Etihad,910,1
+KHI,Karachi,BAH,Bahrain,188029,flydubai,575,1
+LHE,Lahore,BAH,Bahrain,152668,Air Arabia / Fly Jinnah,835,1
+ISB,Islamabad,BAH,Bahrain,155697,Air Arabia / Fly Jinnah,785,1
+KHI,Karachi,MCT,Muscat,102544,flydubai,555,1
+LHE,Lahore,MCT,Muscat,327182,Etihad,925,1
+KHI,Karachi,DOH,Doha,114932,flydubai,660,1
+LHE,Lahore,DOH,Doha,151002,Air Arabia / Fly Jinnah,515,1
+ISB,Islamabad,DOH,Doha,155849,Air Arabia / Fly Jinnah,465,1
+KHI,Karachi,AMM,Amman,111864,flydubai,675,1
+KHI,Karachi,BEY,Beirut,334351,flydubai,690,1
+KHI,Karachi,IST,Istanbul,154822,Emirates / flydubai,990,1
+LHE,Lahore,IST,Istanbul,150396,Air Arabia / Fly Jinnah,1140,1
+ISB,Islamabad,IST,Istanbul,156227,Air Arabia / Fly Jinnah,1090,1
+KHI,Karachi,SAW,Istanbul Sabiha,123772,flydubai,910,1
+KHI,Karachi,BKK,Bangkok,142243,THAI,290,0
+LHE,Lahore,BKK,Bangkok,166799,China Southern,785,1
+KHI,Karachi,KUL,Kuala Lumpur,146139,THAI,1040,1
+LHE,Lahore,KUL,Kuala Lumpur,137789,THAI,1030,1
+ISB,Islamabad,KUL,Kuala Lumpur,164519,THAI,1050,1
+KHI,Karachi,SIN,Singapore,155329,THAI,720,1
+LHE,Lahore,SIN,Singapore,155329,THAI,710,1
+KHI,Karachi,HKG,Hong Kong,101869,THAI,555,1
+KHI,Karachi,ICN,Seoul,173699,THAI,715,1
+KHI,Karachi,NRT,Tokyo Narita,131939,THAI,745,1
+KHI,Karachi,CAN,Guangzhou,192079,THAI,720,1
+ISB,Islamabad,CAN,Guangzhou,234119,THAI,730,1
+KHI,Karachi,PEK,Beijing,141122,THAI,795,1
+ISB,Islamabad,PEK,Beijing,139058,THAI,1630,1
+KHI,Karachi,CTU,Chengdu,475623,China Southern / Emirates,1970,2
+KHI,Karachi,PVG,Shanghai,267698,THAI,1635,1
+ISB,Islamabad,XIY,Xian,783086,China Southern / THAI,1315,2
+KHI,Karachi,DEL,Delhi,217170,Etihad,1275,1
+LHE,Lahore,DEL,Delhi,293190,Etihad,1385,1
+KHI,Karachi,BOM,Mumbai,191800,flydubai,1675,1
+KHI,Karachi,CMB,Colombo,189420,flydubai,970,1
+KHI,Karachi,KTM,Kathmandu,225822,flydubai,1095,1
+KHI,Karachi,DAC,Dhaka,155329,THAI,700,1
+KHI,Karachi,MLE,Maldives,167632,Emirates / flydubai,575,1
+ISB,Islamabad,CDG,Paris,448162,Etihad,910,1
+LHE,Lahore,CDG,Paris,232372,Etihad,910,1
+ISB,Islamabad,FRA,Frankfurt,384122,Etihad,850,1
+KHI,Karachi,FRA,Frankfurt,189492,Etihad,1470,1
+ISB,Islamabad,BCN,Barcelona,506352,Etihad,890,1
+LHE,Lahore,BCN,Barcelona,293912,Etihad,890,1
+ISB,Islamabad,CPH,Copenhagen,322032,Etihad,855,1
+ISB,Islamabad,MAD,Madrid,489372,Etihad,920,1
+KHI,Karachi,MXP,Milan,220812,Emirates / flydubai,1035,1
+ISB,Islamabad,AMS,Amsterdam,476842,Etihad,915,1
+KHI,Karachi,FCO,Rome,202302,Etihad,710,1
+ISB,Islamabad,ZRH,Zurich,486183,Pakistan International Airlines / Turkish Airlines,1335,2
+KHI,Karachi,VIE,Vienna,213012,Emirates / flydubai,960,1
+KHI,Karachi,SYD,Sydney,333090,Qantas / Emirates / flydubai,2895,2
+KHI,Karachi,MEL,Melbourne,360304,Emirates / flydubai,1475,1
+KHI,Karachi,AKL,Auckland,381265,Emirates / flydubai,1630,1
+KHI,Karachi,NBO,Nairobi,157308,flydubai,1390,1
+KHI,Karachi,CAI,Cairo,352152,Etihad,590,1
+KHI,Karachi,JNB,Johannesburg,429912,Emirates,860,1
+KHI,Karachi,LHE,Lahore,24170,Airblue,115,0
+LHE,Lahore,KHI,Karachi,58730,Fly Jinnah,110,0
+KHI,Karachi,ISB,Islamabad,22250,Airblue,125,0
+ISB,Islamabad,KHI,Karachi,29680,Fly Jinnah,120,0
+ISB,Islamabad,LHE,Lahore,11460,Fly Jinnah,45,0
+LHE,Lahore,ISB,Islamabad,11460,Fly Jinnah,45,0
+KHI,Karachi,PEW,Peshawar,169209,Etihad,555,1
+MUX,Multan,KHI,Karachi,14402,Pakistan International Airlines,85,0
+KHI,Karachi,UET,Quetta,121112,Pakistan International Airlines,985,1
+UET,Quetta,KHI,Karachi,85752,Pakistan International Airlines,1030,1
+ISB,Islamabad,LYP,Faisalabad,60692,Pakistan International Airlines,1620,1

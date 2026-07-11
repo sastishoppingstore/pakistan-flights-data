@@ -1,0 +1,1127 @@
+{
+  "date": "2026-07-11",
+  "total": 112,
+  "errors": 25,
+  "routes": [
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "DXB",
+      "to_name": "Dubai",
+      "price_pkr": 92337,
+      "airline": "Pakistan International Airlines",
+      "duration_min": 1835,
+      "stops": 1
+    },
+    {
+      "from": "MUX",
+      "from_name": "Multan",
+      "to": "DXB",
+      "to_name": "Dubai",
+      "price_pkr": 104567,
+      "airline": "Pakistan International Airlines",
+      "duration_min": 2035,
+      "stops": 2
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "AUH",
+      "to_name": "Abu Dhabi",
+      "price_pkr": 114700,
+      "airline": "Etihad",
+      "duration_min": 125,
+      "stops": 0
+    },
+    {
+      "from": "LHE",
+      "from_name": "Lahore",
+      "to": "AUH",
+      "to_name": "Abu Dhabi",
+      "price_pkr": 173730,
+      "airline": "Etihad",
+      "duration_min": 200,
+      "stops": 0
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "AUH",
+      "to_name": "Abu Dhabi",
+      "price_pkr": 79642,
+      "airline": "Airblue",
+      "duration_min": 210,
+      "stops": 0
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "SHJ",
+      "to_name": "Sharjah",
+      "price_pkr": 88957,
+      "airline": "Pakistan International Airlines",
+      "duration_min": 1080,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "JED",
+      "to_name": "Jeddah",
+      "price_pkr": 136377,
+      "airline": "Fly Jinnah",
+      "duration_min": 255,
+      "stops": 0
+    },
+    {
+      "from": "LHE",
+      "from_name": "Lahore",
+      "to": "JED",
+      "to_name": "Jeddah",
+      "price_pkr": 143250,
+      "airline": "Airblue",
+      "duration_min": 340,
+      "stops": 0
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "JED",
+      "to_name": "Jeddah",
+      "price_pkr": 143250,
+      "airline": "Airblue",
+      "duration_min": 340,
+      "stops": 0
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "RUH",
+      "to_name": "Riyadh",
+      "price_pkr": 179940,
+      "airline": "Pakistan International Airlines",
+      "duration_min": 1015,
+      "stops": 1
+    },
+    {
+      "from": "LHE",
+      "from_name": "Lahore",
+      "to": "RUH",
+      "to_name": "Riyadh",
+      "price_pkr": 853455,
+      "airline": "Etihad",
+      "duration_min": 540,
+      "stops": 1
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "RUH",
+      "to_name": "Riyadh",
+      "price_pkr": 138990,
+      "airline": "Air Sial",
+      "duration_min": 300,
+      "stops": 0
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "DMM",
+      "to_name": "Dammam",
+      "price_pkr": 123280,
+      "airline": "Fly Jinnah",
+      "duration_min": 175,
+      "stops": 0
+    },
+    {
+      "from": "LHE",
+      "from_name": "Lahore",
+      "to": "DMM",
+      "to_name": "Dammam",
+      "price_pkr": 148875,
+      "airline": "Airblue",
+      "duration_min": 255,
+      "stops": 0
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "DMM",
+      "to_name": "Dammam",
+      "price_pkr": 131522,
+      "airline": "Fly Jinnah",
+      "duration_min": 235,
+      "stops": 0
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "MED",
+      "to_name": "Madinah",
+      "price_pkr": 110103,
+      "airline": "flydubai",
+      "duration_min": 1560,
+      "stops": 1
+    },
+    {
+      "from": "LHE",
+      "from_name": "Lahore",
+      "to": "MED",
+      "to_name": "Madinah",
+      "price_pkr": 256411,
+      "airline": "Etihad",
+      "duration_min": 1345,
+      "stops": 1
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "MED",
+      "to_name": "Madinah",
+      "price_pkr": 168117,
+      "airline": "Air Arabia / Fly Jinnah",
+      "duration_min": 1140,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "LHR",
+      "to_name": "London Heathrow",
+      "price_pkr": 217472,
+      "airline": "Emirates / flydubai",
+      "duration_min": 990,
+      "stops": 1
+    },
+    {
+      "from": "LHE",
+      "from_name": "Lahore",
+      "to": "LHR",
+      "to_name": "London Heathrow",
+      "price_pkr": 211492,
+      "airline": "Etihad",
+      "duration_min": 915,
+      "stops": 1
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "LHR",
+      "to_name": "London Heathrow",
+      "price_pkr": 277934,
+      "airline": "Pakistan International Airlines",
+      "duration_min": 3000,
+      "stops": 2
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "BHX",
+      "to_name": "Birmingham",
+      "price_pkr": 215792,
+      "airline": "Emirates / flydubai",
+      "duration_min": 995,
+      "stops": 1
+    },
+    {
+      "from": "LHE",
+      "from_name": "Lahore",
+      "to": "BHX",
+      "to_name": "Birmingham",
+      "price_pkr": 289452,
+      "airline": "Etihad / AccesRail",
+      "duration_min": 1551,
+      "stops": 3
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "MAN",
+      "to_name": "Manchester",
+      "price_pkr": 181832,
+      "airline": "Emirates / flydubai",
+      "duration_min": 965,
+      "stops": 1
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "MAN",
+      "to_name": "Manchester",
+      "price_pkr": 424772,
+      "airline": "Etihad",
+      "duration_min": 905,
+      "stops": 1
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "STN",
+      "to_name": "London Stansted",
+      "price_pkr": 1771189,
+      "airline": "Turkish Airlines / Etihad",
+      "duration_min": 2530,
+      "stops": 2
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "LGW",
+      "to_name": "London Gatwick",
+      "price_pkr": 196152,
+      "airline": "Emirates / flydubai",
+      "duration_min": 1000,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "EDI",
+      "to_name": "Edinburgh",
+      "price_pkr": 279002,
+      "airline": "Emirates",
+      "duration_min": 1510,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "JFK",
+      "to_name": "New York JFK",
+      "price_pkr": 355475,
+      "airline": "Emirates / flydubai",
+      "duration_min": 1410,
+      "stops": 1
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "JFK",
+      "to_name": "New York JFK",
+      "price_pkr": 555255,
+      "airline": "Etihad",
+      "duration_min": 1755,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "ORD",
+      "to_name": "Chicago",
+      "price_pkr": 233404,
+      "airline": "Pakistan International Airlines / Etihad",
+      "duration_min": 3100,
+      "stops": 2
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "IAH",
+      "to_name": "Houston",
+      "price_pkr": 380255,
+      "airline": "Emirates / flydubai",
+      "duration_min": 1615,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "LAX",
+      "to_name": "Los Angeles",
+      "price_pkr": 405035,
+      "airline": "Emirates / flydubai",
+      "duration_min": 1580,
+      "stops": 1
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "IAD",
+      "to_name": "Washington DC",
+      "price_pkr": 370095,
+      "airline": "Etihad",
+      "duration_min": 1380,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "DFW",
+      "to_name": "Dallas",
+      "price_pkr": 442238,
+      "airline": "American / Etihad",
+      "duration_min": 2700,
+      "stops": 2
+    },
+    {
+      "from": "LHE",
+      "from_name": "Lahore",
+      "to": "JFK",
+      "to_name": "New York JFK",
+      "price_pkr": 514405,
+      "airline": "Etihad",
+      "duration_min": 1755,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "YVR",
+      "to_name": "Vancouver",
+      "price_pkr": 436873,
+      "airline": "Emirates / WestJet / flydubai",
+      "duration_min": 1580,
+      "stops": 2
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "YYZ",
+      "to_name": "Toronto",
+      "price_pkr": 264016,
+      "airline": "Pakistan International Airlines",
+      "duration_min": 1935,
+      "stops": 2
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "YYZ",
+      "to_name": "Toronto",
+      "price_pkr": 343882,
+      "airline": "Emirates / flydubai",
+      "duration_min": 1115,
+      "stops": 1
+    },
+    {
+      "from": "LHE",
+      "from_name": "Lahore",
+      "to": "YYZ",
+      "to_name": "Toronto",
+      "price_pkr": 352102,
+      "airline": "Etihad",
+      "duration_min": 1330,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "YUL",
+      "to_name": "Montreal",
+      "price_pkr": 367262,
+      "airline": "Emirates",
+      "duration_min": 1085,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "KWI",
+      "to_name": "Kuwait",
+      "price_pkr": 105842,
+      "airline": "flydubai",
+      "duration_min": 1110,
+      "stops": 1
+    },
+    {
+      "from": "LHE",
+      "from_name": "Lahore",
+      "to": "KWI",
+      "to_name": "Kuwait",
+      "price_pkr": 250324,
+      "airline": "Etihad",
+      "duration_min": 910,
+      "stops": 1
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "KWI",
+      "to_name": "Kuwait",
+      "price_pkr": 251714,
+      "airline": "Etihad",
+      "duration_min": 910,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "BAH",
+      "to_name": "Bahrain",
+      "price_pkr": 188029,
+      "airline": "flydubai",
+      "duration_min": 575,
+      "stops": 1
+    },
+    {
+      "from": "LHE",
+      "from_name": "Lahore",
+      "to": "BAH",
+      "to_name": "Bahrain",
+      "price_pkr": 152668,
+      "airline": "Air Arabia / Fly Jinnah",
+      "duration_min": 835,
+      "stops": 1
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "BAH",
+      "to_name": "Bahrain",
+      "price_pkr": 155697,
+      "airline": "Air Arabia / Fly Jinnah",
+      "duration_min": 785,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "MCT",
+      "to_name": "Muscat",
+      "price_pkr": 102544,
+      "airline": "flydubai",
+      "duration_min": 555,
+      "stops": 1
+    },
+    {
+      "from": "LHE",
+      "from_name": "Lahore",
+      "to": "MCT",
+      "to_name": "Muscat",
+      "price_pkr": 327182,
+      "airline": "Etihad",
+      "duration_min": 925,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "DOH",
+      "to_name": "Doha",
+      "price_pkr": 114932,
+      "airline": "flydubai",
+      "duration_min": 660,
+      "stops": 1
+    },
+    {
+      "from": "LHE",
+      "from_name": "Lahore",
+      "to": "DOH",
+      "to_name": "Doha",
+      "price_pkr": 151002,
+      "airline": "Air Arabia / Fly Jinnah",
+      "duration_min": 515,
+      "stops": 1
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "DOH",
+      "to_name": "Doha",
+      "price_pkr": 155849,
+      "airline": "Air Arabia / Fly Jinnah",
+      "duration_min": 465,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "AMM",
+      "to_name": "Amman",
+      "price_pkr": 111864,
+      "airline": "flydubai",
+      "duration_min": 675,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "BEY",
+      "to_name": "Beirut",
+      "price_pkr": 334351,
+      "airline": "flydubai",
+      "duration_min": 690,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "IST",
+      "to_name": "Istanbul",
+      "price_pkr": 154822,
+      "airline": "Emirates / flydubai",
+      "duration_min": 990,
+      "stops": 1
+    },
+    {
+      "from": "LHE",
+      "from_name": "Lahore",
+      "to": "IST",
+      "to_name": "Istanbul",
+      "price_pkr": 150396,
+      "airline": "Air Arabia / Fly Jinnah",
+      "duration_min": 1140,
+      "stops": 1
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "IST",
+      "to_name": "Istanbul",
+      "price_pkr": 156227,
+      "airline": "Air Arabia / Fly Jinnah",
+      "duration_min": 1090,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "SAW",
+      "to_name": "Istanbul Sabiha",
+      "price_pkr": 123772,
+      "airline": "flydubai",
+      "duration_min": 910,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "BKK",
+      "to_name": "Bangkok",
+      "price_pkr": 142243,
+      "airline": "THAI",
+      "duration_min": 290,
+      "stops": 0
+    },
+    {
+      "from": "LHE",
+      "from_name": "Lahore",
+      "to": "BKK",
+      "to_name": "Bangkok",
+      "price_pkr": 166799,
+      "airline": "China Southern",
+      "duration_min": 785,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "KUL",
+      "to_name": "Kuala Lumpur",
+      "price_pkr": 146139,
+      "airline": "THAI",
+      "duration_min": 1040,
+      "stops": 1
+    },
+    {
+      "from": "LHE",
+      "from_name": "Lahore",
+      "to": "KUL",
+      "to_name": "Kuala Lumpur",
+      "price_pkr": 137789,
+      "airline": "THAI",
+      "duration_min": 1030,
+      "stops": 1
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "KUL",
+      "to_name": "Kuala Lumpur",
+      "price_pkr": 164519,
+      "airline": "THAI",
+      "duration_min": 1050,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "SIN",
+      "to_name": "Singapore",
+      "price_pkr": 155329,
+      "airline": "THAI",
+      "duration_min": 720,
+      "stops": 1
+    },
+    {
+      "from": "LHE",
+      "from_name": "Lahore",
+      "to": "SIN",
+      "to_name": "Singapore",
+      "price_pkr": 155329,
+      "airline": "THAI",
+      "duration_min": 710,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "HKG",
+      "to_name": "Hong Kong",
+      "price_pkr": 101869,
+      "airline": "THAI",
+      "duration_min": 555,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "ICN",
+      "to_name": "Seoul",
+      "price_pkr": 173699,
+      "airline": "THAI",
+      "duration_min": 715,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "NRT",
+      "to_name": "Tokyo Narita",
+      "price_pkr": 131939,
+      "airline": "THAI",
+      "duration_min": 745,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "CAN",
+      "to_name": "Guangzhou",
+      "price_pkr": 192079,
+      "airline": "THAI",
+      "duration_min": 720,
+      "stops": 1
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "CAN",
+      "to_name": "Guangzhou",
+      "price_pkr": 234119,
+      "airline": "THAI",
+      "duration_min": 730,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "PEK",
+      "to_name": "Beijing",
+      "price_pkr": 141122,
+      "airline": "THAI",
+      "duration_min": 795,
+      "stops": 1
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "PEK",
+      "to_name": "Beijing",
+      "price_pkr": 139058,
+      "airline": "THAI",
+      "duration_min": 1630,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "CTU",
+      "to_name": "Chengdu",
+      "price_pkr": 475623,
+      "airline": "China Southern / Emirates",
+      "duration_min": 1970,
+      "stops": 2
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "PVG",
+      "to_name": "Shanghai",
+      "price_pkr": 267698,
+      "airline": "THAI",
+      "duration_min": 1635,
+      "stops": 1
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "XIY",
+      "to_name": "Xian",
+      "price_pkr": 783086,
+      "airline": "China Southern / THAI",
+      "duration_min": 1315,
+      "stops": 2
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "DEL",
+      "to_name": "Delhi",
+      "price_pkr": 217170,
+      "airline": "Etihad",
+      "duration_min": 1275,
+      "stops": 1
+    },
+    {
+      "from": "LHE",
+      "from_name": "Lahore",
+      "to": "DEL",
+      "to_name": "Delhi",
+      "price_pkr": 293190,
+      "airline": "Etihad",
+      "duration_min": 1385,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "BOM",
+      "to_name": "Mumbai",
+      "price_pkr": 191800,
+      "airline": "flydubai",
+      "duration_min": 1675,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "CMB",
+      "to_name": "Colombo",
+      "price_pkr": 189420,
+      "airline": "flydubai",
+      "duration_min": 970,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "KTM",
+      "to_name": "Kathmandu",
+      "price_pkr": 225822,
+      "airline": "flydubai",
+      "duration_min": 1095,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "DAC",
+      "to_name": "Dhaka",
+      "price_pkr": 155329,
+      "airline": "THAI",
+      "duration_min": 700,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "MLE",
+      "to_name": "Maldives",
+      "price_pkr": 167632,
+      "airline": "Emirates / flydubai",
+      "duration_min": 575,
+      "stops": 1
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "CDG",
+      "to_name": "Paris",
+      "price_pkr": 448162,
+      "airline": "Etihad",
+      "duration_min": 910,
+      "stops": 1
+    },
+    {
+      "from": "LHE",
+      "from_name": "Lahore",
+      "to": "CDG",
+      "to_name": "Paris",
+      "price_pkr": 232372,
+      "airline": "Etihad",
+      "duration_min": 910,
+      "stops": 1
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "FRA",
+      "to_name": "Frankfurt",
+      "price_pkr": 384122,
+      "airline": "Etihad",
+      "duration_min": 850,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "FRA",
+      "to_name": "Frankfurt",
+      "price_pkr": 189492,
+      "airline": "Etihad",
+      "duration_min": 1470,
+      "stops": 1
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "BCN",
+      "to_name": "Barcelona",
+      "price_pkr": 506352,
+      "airline": "Etihad",
+      "duration_min": 890,
+      "stops": 1
+    },
+    {
+      "from": "LHE",
+      "from_name": "Lahore",
+      "to": "BCN",
+      "to_name": "Barcelona",
+      "price_pkr": 293912,
+      "airline": "Etihad",
+      "duration_min": 890,
+      "stops": 1
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "CPH",
+      "to_name": "Copenhagen",
+      "price_pkr": 322032,
+      "airline": "Etihad",
+      "duration_min": 855,
+      "stops": 1
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "MAD",
+      "to_name": "Madrid",
+      "price_pkr": 489372,
+      "airline": "Etihad",
+      "duration_min": 920,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "MXP",
+      "to_name": "Milan",
+      "price_pkr": 220812,
+      "airline": "Emirates / flydubai",
+      "duration_min": 1035,
+      "stops": 1
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "AMS",
+      "to_name": "Amsterdam",
+      "price_pkr": 476842,
+      "airline": "Etihad",
+      "duration_min": 915,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "FCO",
+      "to_name": "Rome",
+      "price_pkr": 202302,
+      "airline": "Etihad",
+      "duration_min": 710,
+      "stops": 1
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "ZRH",
+      "to_name": "Zurich",
+      "price_pkr": 486183,
+      "airline": "Pakistan International Airlines / Turkish Airlines",
+      "duration_min": 1335,
+      "stops": 2
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "VIE",
+      "to_name": "Vienna",
+      "price_pkr": 213012,
+      "airline": "Emirates / flydubai",
+      "duration_min": 960,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "SYD",
+      "to_name": "Sydney",
+      "price_pkr": 333090,
+      "airline": "Qantas / Emirates / flydubai",
+      "duration_min": 2895,
+      "stops": 2
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "MEL",
+      "to_name": "Melbourne",
+      "price_pkr": 360304,
+      "airline": "Emirates / flydubai",
+      "duration_min": 1475,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "AKL",
+      "to_name": "Auckland",
+      "price_pkr": 381265,
+      "airline": "Emirates / flydubai",
+      "duration_min": 1630,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "NBO",
+      "to_name": "Nairobi",
+      "price_pkr": 157308,
+      "airline": "flydubai",
+      "duration_min": 1390,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "CAI",
+      "to_name": "Cairo",
+      "price_pkr": 352152,
+      "airline": "Etihad",
+      "duration_min": 590,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "JNB",
+      "to_name": "Johannesburg",
+      "price_pkr": 429912,
+      "airline": "Emirates",
+      "duration_min": 860,
+      "stops": 1
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "LHE",
+      "to_name": "Lahore",
+      "price_pkr": 24170,
+      "airline": "Airblue",
+      "duration_min": 115,
+      "stops": 0
+    },
+    {
+      "from": "LHE",
+      "from_name": "Lahore",
+      "to": "KHI",
+      "to_name": "Karachi",
+      "price_pkr": 58730,
+      "airline": "Fly Jinnah",
+      "duration_min": 110,
+      "stops": 0
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "ISB",
+      "to_name": "Islamabad",
+      "price_pkr": 22250,
+      "airline": "Airblue",
+      "duration_min": 125,
+      "stops": 0
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "KHI",
+      "to_name": "Karachi",
+      "price_pkr": 29680,
+      "airline": "Fly Jinnah",
+      "duration_min": 120,
+      "stops": 0
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "LHE",
+      "to_name": "Lahore",
+      "price_pkr": 11460,
+      "airline": "Fly Jinnah",
+      "duration_min": 45,
+      "stops": 0
+    },
+    {
+      "from": "LHE",
+      "from_name": "Lahore",
+      "to": "ISB",
+      "to_name": "Islamabad",
+      "price_pkr": 11460,
+      "airline": "Fly Jinnah",
+      "duration_min": 45,
+      "stops": 0
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "PEW",
+      "to_name": "Peshawar",
+      "price_pkr": 169209,
+      "airline": "Etihad",
+      "duration_min": 555,
+      "stops": 1
+    },
+    {
+      "from": "MUX",
+      "from_name": "Multan",
+      "to": "KHI",
+      "to_name": "Karachi",
+      "price_pkr": 14402,
+      "airline": "Pakistan International Airlines",
+      "duration_min": 85,
+      "stops": 0
+    },
+    {
+      "from": "KHI",
+      "from_name": "Karachi",
+      "to": "UET",
+      "to_name": "Quetta",
+      "price_pkr": 121112,
+      "airline": "Pakistan International Airlines",
+      "duration_min": 985,
+      "stops": 1
+    },
+    {
+      "from": "UET",
+      "from_name": "Quetta",
+      "to": "KHI",
+      "to_name": "Karachi",
+      "price_pkr": 85752,
+      "airline": "Pakistan International Airlines",
+      "duration_min": 1030,
+      "stops": 1
+    },
+    {
+      "from": "ISB",
+      "from_name": "Islamabad",
+      "to": "LYP",
+      "to_name": "Faisalabad",
+      "price_pkr": 60692,
+      "airline": "Pakistan International Airlines",
+      "duration_min": 1620,
+      "stops": 1
+    }
+  ]
+}

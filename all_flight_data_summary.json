@@ -1,0 +1,1450 @@
+{
+  "generated": "2026-07-11T13:16:18.148Z",
+  "total_entries": 1167,
+  "unique_routes": 125,
+  "unique_origins": [
+    "ISB",
+    "JED",
+    "KHI",
+    "LHE",
+    "MUX",
+    "PEW",
+    "SKT",
+    "UET"
+  ],
+  "unique_destinations": [
+    "AKL",
+    "AMM",
+    "AMS",
+    "AUH",
+    "BAH",
+    "BCN",
+    "BEY",
+    "BHX",
+    "BKK",
+    "BOM",
+    "CAI",
+    "CAN",
+    "CDG",
+    "CMB",
+    "CPH",
+    "CTU",
+    "DAC",
+    "DEL",
+    "DFW",
+    "DMM",
+    "DOH",
+    "DXB",
+    "EDI",
+    "FCO",
+    "FRA",
+    "HKG",
+    "IAD",
+    "IAH",
+    "ICN",
+    "ISB",
+    "IST",
+    "JED",
+    "JFK",
+    "JNB",
+    "KHI",
+    "KTM",
+    "KUL",
+    "KWI",
+    "LAX",
+    "LGW",
+    "LHE",
+    "LHR",
+    "LYP",
+    "MAD",
+    "MAN",
+    "MCT",
+    "MED",
+    "MEL",
+    "MLE",
+    "MUX",
+    "MXP",
+    "NBO",
+    "NRT",
+    "ORD",
+    "PEK",
+    "PEW",
+    "PVG",
+    "RUH",
+    "SAW",
+    "SHJ",
+    "SIN",
+    "SKT",
+    "STN",
+    "SYD",
+    "UET",
+    "VIE",
+    "XIY",
+    "YUL",
+    "YVR",
+    "YYZ",
+    "ZRH"
+  ],
+  "routes": {
+    "ISB→AMS": {
+      "cheapest_one_way": 476842,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad"
+      ],
+      "total_options": 1
+    },
+    "ISB→AUH": {
+      "cheapest_one_way": 79642,
+      "cheapest_round_trip": 123471,
+      "cheapest_multi_city": 79642,
+      "airlines": [
+        "Airblue",
+        "Air Sial",
+        "Etihad",
+        "Pakistan International Airlines",
+        "Qatar Airways"
+      ],
+      "total_options": 12
+    },
+    "ISB→BAH": {
+      "cheapest_one_way": 155697,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Air Arabia / Fly Jinnah"
+      ],
+      "total_options": 1
+    },
+    "ISB→BCN": {
+      "cheapest_one_way": 506352,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad"
+      ],
+      "total_options": 1
+    },
+    "ISB→CAN": {
+      "cheapest_one_way": 234119,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "THAI"
+      ],
+      "total_options": 1
+    },
+    "ISB→CDG": {
+      "cheapest_one_way": 448162,
+      "cheapest_round_trip": 320390,
+      "cheapest_multi_city": 177156,
+      "airlines": [
+        "Etihad",
+        "Qatar Airways",
+        "Emirates",
+        "Turkish Airlines",
+        "British Airways",
+        "Saudia",
+        "Gulf Air"
+      ],
+      "total_options": 18
+    },
+    "ISB→CPH": {
+      "cheapest_one_way": 322032,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad"
+      ],
+      "total_options": 1
+    },
+    "ISB→DMM": {
+      "cheapest_one_way": 131522,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Fly Jinnah"
+      ],
+      "total_options": 1
+    },
+    "ISB→DOH": {
+      "cheapest_one_way": 155849,
+      "cheapest_round_trip": 175381,
+      "cheapest_multi_city": 119499,
+      "airlines": [
+        "Air Arabia / Fly Jinnah",
+        "Fly Jinnah / Air Arabia",
+        "Qatar Airways",
+        "Flynas",
+        "Etihad",
+        "Pakistan International Airlines"
+      ],
+      "total_options": 14
+    },
+    "ISB→DXB": {
+      "cheapest_one_way": 79490,
+      "cheapest_round_trip": 120834,
+      "cheapest_multi_city": 79490,
+      "airlines": [
+        "Airblue",
+        "Air Sial",
+        "Emirates",
+        "Qatar Airways",
+        "Gulf Air"
+      ],
+      "total_options": 18
+    },
+    "ISB→FRA": {
+      "cheapest_one_way": 384122,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad"
+      ],
+      "total_options": 1
+    },
+    "ISB→IAD": {
+      "cheapest_one_way": 370095,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad"
+      ],
+      "total_options": 1
+    },
+    "ISB→IST": {
+      "cheapest_one_way": 156227,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Air Arabia / Fly Jinnah"
+      ],
+      "total_options": 1
+    },
+    "ISB→JED": {
+      "cheapest_one_way": 143250,
+      "cheapest_round_trip": 162884,
+      "cheapest_multi_city": 124076,
+      "airlines": [
+        "Airblue",
+        "SalamAir",
+        "Air Sial",
+        "Flynas",
+        "Fly Jinnah / Air Arabia",
+        "Fly Jinnah",
+        "Pakistan International Airlines",
+        "Emirates",
+        "Saudia"
+      ],
+      "total_options": 19
+    },
+    "ISB→JFK": {
+      "cheapest_one_way": 555255,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad"
+      ],
+      "total_options": 1
+    },
+    "ISB→KHI": {
+      "cheapest_one_way": 29680,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Fly Jinnah"
+      ],
+      "total_options": 1
+    },
+    "ISB→KUL": {
+      "cheapest_one_way": 164519,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "THAI"
+      ],
+      "total_options": 1
+    },
+    "ISB→KWI": {
+      "cheapest_one_way": 251714,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad"
+      ],
+      "total_options": 1
+    },
+    "ISB→LHE": {
+      "cheapest_one_way": 11460,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Fly Jinnah"
+      ],
+      "total_options": 1
+    },
+    "ISB→LHR": {
+      "cheapest_one_way": 277934,
+      "cheapest_round_trip": 293896,
+      "cheapest_multi_city": 140295,
+      "airlines": [
+        "Pakistan International Airlines",
+        "Qatar Airways",
+        "Emirates",
+        "Turkish Airlines",
+        "Etihad",
+        "Gulf Air"
+      ],
+      "total_options": 22
+    },
+    "ISB→LYP": {
+      "cheapest_one_way": 60692,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Pakistan International Airlines"
+      ],
+      "total_options": 1
+    },
+    "ISB→MAD": {
+      "cheapest_one_way": 489372,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad"
+      ],
+      "total_options": 1
+    },
+    "ISB→MAN": {
+      "cheapest_one_way": 424772,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad"
+      ],
+      "total_options": 1
+    },
+    "ISB→MED": {
+      "cheapest_one_way": 168117,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Air Arabia / Fly Jinnah"
+      ],
+      "total_options": 1
+    },
+    "ISB→PEK": {
+      "cheapest_one_way": 139058,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "THAI"
+      ],
+      "total_options": 1
+    },
+    "ISB→PEW": {
+      "cheapest_one_way": 126609,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad",
+        "Pakistan International Airlines",
+        "Fly Jinnah / Air Arabia",
+        "Qatar Airways"
+      ],
+      "total_options": 5
+    },
+    "ISB→RUH": {
+      "cheapest_one_way": 138990,
+      "cheapest_round_trip": 141314,
+      "cheapest_multi_city": 115454,
+      "airlines": [
+        "Air Sial",
+        "Fly Jinnah",
+        "Flynas",
+        "SalamAir",
+        "Fly Jinnah / Air Arabia",
+        "Pakistan International Airlines",
+        "Airblue"
+      ],
+      "total_options": 17
+    },
+    "ISB→SKT": {
+      "cheapest_one_way": 196629,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Emirates / flydubai",
+        "Pakistan International Airlines / flydubai / Emirates",
+        "Qatar Airways",
+        "Emirates",
+        "Pakistan International Airlines / Emirates"
+      ],
+      "total_options": 8
+    },
+    "ISB→STN": {
+      "cheapest_one_way": 1771189,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Turkish Airlines / Etihad"
+      ],
+      "total_options": 1
+    },
+    "ISB→XIY": {
+      "cheapest_one_way": 783086,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "China Southern / THAI"
+      ],
+      "total_options": 1
+    },
+    "ISB→YYZ": {
+      "cheapest_one_way": 264016,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Pakistan International Airlines"
+      ],
+      "total_options": 1
+    },
+    "ISB→ZRH": {
+      "cheapest_one_way": 486183,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Pakistan International Airlines / Turkish Airlines"
+      ],
+      "total_options": 1
+    },
+    "JED→DMM": {
+      "cheapest_one_way": 437,
+      "cheapest_round_trip": 807,
+      "cheapest_multi_city": 32380,
+      "airlines": [
+        "flyadeal",
+        "Saudia",
+        "Flynas"
+      ],
+      "total_options": 72
+    },
+    "JED→MED": {
+      "cheapest_one_way": 240,
+      "cheapest_round_trip": 463,
+      "cheapest_multi_city": 17743,
+      "airlines": [
+        "Saudia",
+        "EgyptAir",
+        "Gulf Air",
+        "Flynas"
+      ],
+      "total_options": 35
+    },
+    "JED→RUH": {
+      "cheapest_one_way": 329,
+      "cheapest_round_trip": 604,
+      "cheapest_multi_city": 24378,
+      "airlines": [
+        "Flynas",
+        "flyadeal",
+        "Saudia",
+        "EgyptAir"
+      ],
+      "total_options": 187
+    },
+    "KHI→AKL": {
+      "cheapest_one_way": 381265,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Emirates / flydubai"
+      ],
+      "total_options": 1
+    },
+    "KHI→AMM": {
+      "cheapest_one_way": 111864,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "flydubai"
+      ],
+      "total_options": 1
+    },
+    "KHI→AUH": {
+      "cheapest_one_way": 114700,
+      "cheapest_round_trip": 114285,
+      "cheapest_multi_city": 73770,
+      "airlines": [
+        "Etihad",
+        "Qatar Airways",
+        "Gulf Air / Etihad",
+        "Pakistan International Airlines"
+      ],
+      "total_options": 13
+    },
+    "KHI→BAH": {
+      "cheapest_one_way": 188029,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "flydubai"
+      ],
+      "total_options": 1
+    },
+    "KHI→BEY": {
+      "cheapest_one_way": 334351,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "flydubai"
+      ],
+      "total_options": 1
+    },
+    "KHI→BHX": {
+      "cheapest_one_way": 215792,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Emirates / flydubai"
+      ],
+      "total_options": 1
+    },
+    "KHI→BKK": {
+      "cheapest_one_way": 142243,
+      "cheapest_round_trip": 223853,
+      "cheapest_multi_city": 122831,
+      "airlines": [
+        "THAI",
+        "Air Arabia",
+        "Qatar Airways",
+        "Etihad",
+        "SalamAir",
+        "SalamAir / Oman Air"
+      ],
+      "total_options": 24
+    },
+    "KHI→BOM": {
+      "cheapest_one_way": 191800,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "flydubai"
+      ],
+      "total_options": 1
+    },
+    "KHI→CAI": {
+      "cheapest_one_way": 352152,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad"
+      ],
+      "total_options": 1
+    },
+    "KHI→CAN": {
+      "cheapest_one_way": 192079,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "THAI"
+      ],
+      "total_options": 1
+    },
+    "KHI→CMB": {
+      "cheapest_one_way": 189420,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "flydubai"
+      ],
+      "total_options": 1
+    },
+    "KHI→CTU": {
+      "cheapest_one_way": 475623,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "China Southern / Emirates"
+      ],
+      "total_options": 1
+    },
+    "KHI→DAC": {
+      "cheapest_one_way": 155329,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "THAI"
+      ],
+      "total_options": 1
+    },
+    "KHI→DEL": {
+      "cheapest_one_way": 217170,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad"
+      ],
+      "total_options": 1
+    },
+    "KHI→DFW": {
+      "cheapest_one_way": 442238,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "American / Etihad"
+      ],
+      "total_options": 1
+    },
+    "KHI→DMM": {
+      "cheapest_one_way": 123280,
+      "cheapest_round_trip": 127451,
+      "cheapest_multi_city": 86860,
+      "airlines": [
+        "Fly Jinnah",
+        "Air Arabia",
+        "Etihad",
+        "Gulf Air",
+        "Qatar Airways",
+        "Flynas",
+        "Emirates",
+        "flydubai",
+        "SalamAir"
+      ],
+      "total_options": 23
+    },
+    "KHI→DOH": {
+      "cheapest_one_way": 114932,
+      "cheapest_round_trip": 121902,
+      "cheapest_multi_city": 63653,
+      "airlines": [
+        "flydubai",
+        "Etihad",
+        "Qatar Airways",
+        "Air Arabia",
+        "Gulf Air"
+      ],
+      "total_options": 18
+    },
+    "KHI→DXB": {
+      "cheapest_one_way": 92337,
+      "cheapest_round_trip": 89750,
+      "cheapest_multi_city": 59806,
+      "airlines": [
+        "Pakistan International Airlines",
+        "Airblue",
+        "Emirates",
+        "flydubai"
+      ],
+      "total_options": 16
+    },
+    "KHI→EDI": {
+      "cheapest_one_way": 279002,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Emirates"
+      ],
+      "total_options": 1
+    },
+    "KHI→FCO": {
+      "cheapest_one_way": 202302,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad"
+      ],
+      "total_options": 1
+    },
+    "KHI→FRA": {
+      "cheapest_one_way": 189492,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad"
+      ],
+      "total_options": 1
+    },
+    "KHI→HKG": {
+      "cheapest_one_way": 101869,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "THAI"
+      ],
+      "total_options": 1
+    },
+    "KHI→IAH": {
+      "cheapest_one_way": 380255,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Emirates / flydubai"
+      ],
+      "total_options": 1
+    },
+    "KHI→ICN": {
+      "cheapest_one_way": 173699,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "THAI"
+      ],
+      "total_options": 1
+    },
+    "KHI→ISB": {
+      "cheapest_one_way": 22250,
+      "cheapest_round_trip": 56555,
+      "cheapest_multi_city": 27212,
+      "airlines": [
+        "Airblue",
+        "Air Sial",
+        "Fly Jinnah",
+        "Pakistan International Airlines"
+      ],
+      "total_options": 23
+    },
+    "KHI→IST": {
+      "cheapest_one_way": 154822,
+      "cheapest_round_trip": 142926,
+      "cheapest_multi_city": 88678,
+      "airlines": [
+        "Emirates / flydubai",
+        "Emirates",
+        "Gulf Air",
+        "Turkish Airlines",
+        "flydubai",
+        "Air Arabia",
+        "Etihad"
+      ],
+      "total_options": 19
+    },
+    "KHI→JED": {
+      "cheapest_one_way": 136377,
+      "cheapest_round_trip": 154065,
+      "cheapest_multi_city": 110700,
+      "airlines": [
+        "Fly Jinnah",
+        "Airblue",
+        "Air Sial",
+        "flydubai",
+        "Qatar Airways",
+        "Air Arabia",
+        "Gulf Air",
+        "Etihad",
+        "flyadeal",
+        "SalamAir"
+      ],
+      "total_options": 19
+    },
+    "KHI→JFK": {
+      "cheapest_one_way": 355475,
+      "cheapest_round_trip": 324368,
+      "cheapest_multi_city": 210466,
+      "airlines": [
+        "Emirates / flydubai",
+        "Qatar Airways",
+        "Etihad",
+        "Turkish Airlines",
+        "Emirates",
+        "Qatar Airways / Royal Jordanian"
+      ],
+      "total_options": 17
+    },
+    "KHI→JNB": {
+      "cheapest_one_way": 429912,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Emirates"
+      ],
+      "total_options": 1
+    },
+    "KHI→KTM": {
+      "cheapest_one_way": 225822,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "flydubai"
+      ],
+      "total_options": 1
+    },
+    "KHI→KUL": {
+      "cheapest_one_way": 146139,
+      "cheapest_round_trip": 303069,
+      "cheapest_multi_city": 213674,
+      "airlines": [
+        "THAI",
+        "SriLankan",
+        "Air Arabia",
+        "Emirates",
+        "Batik Air",
+        "flydubai / Emirates / Batik Air"
+      ],
+      "total_options": 15
+    },
+    "KHI→KWI": {
+      "cheapest_one_way": 105842,
+      "cheapest_round_trip": 119256,
+      "cheapest_multi_city": 61972,
+      "airlines": [
+        "flydubai",
+        "Etihad",
+        "Air Arabia",
+        "Emirates / flydubai",
+        "Emirates",
+        "Gulf Air",
+        "Qatar Airways",
+        "Jazeera",
+        "Pegasus"
+      ],
+      "total_options": 19
+    },
+    "KHI→LAX": {
+      "cheapest_one_way": 405035,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Emirates / flydubai"
+      ],
+      "total_options": 1
+    },
+    "KHI→LGW": {
+      "cheapest_one_way": 196152,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Emirates / flydubai"
+      ],
+      "total_options": 1
+    },
+    "KHI→LHE": {
+      "cheapest_one_way": 24170,
+      "cheapest_round_trip": 41280,
+      "cheapest_multi_city": 21500,
+      "airlines": [
+        "Airblue",
+        "Air Sial",
+        "Pakistan International Airlines",
+        "Fly Jinnah"
+      ],
+      "total_options": 19
+    },
+    "KHI→LHR": {
+      "cheapest_one_way": 217472,
+      "cheapest_round_trip": 301520,
+      "cheapest_multi_city": 106802,
+      "airlines": [
+        "Emirates / flydubai",
+        "Emirates",
+        "Qatar Airways",
+        "Etihad",
+        "Gulf Air",
+        "Turkish Airlines",
+        "Pakistan International Airlines"
+      ],
+      "total_options": 26
+    },
+    "KHI→MAN": {
+      "cheapest_one_way": 181832,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Emirates / flydubai"
+      ],
+      "total_options": 1
+    },
+    "KHI→MCT": {
+      "cheapest_one_way": 102544,
+      "cheapest_round_trip": 94110,
+      "cheapest_multi_city": 64482,
+      "airlines": [
+        "flydubai",
+        "SalamAir",
+        "Etihad",
+        "Gulf Air",
+        "Emirates",
+        "Air Arabia"
+      ],
+      "total_options": 17
+    },
+    "KHI→MED": {
+      "cheapest_one_way": 110103,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "flydubai"
+      ],
+      "total_options": 1
+    },
+    "KHI→MEL": {
+      "cheapest_one_way": 360304,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Emirates / flydubai"
+      ],
+      "total_options": 1
+    },
+    "KHI→MLE": {
+      "cheapest_one_way": 167632,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Emirates / flydubai"
+      ],
+      "total_options": 1
+    },
+    "KHI→MUX": {
+      "cheapest_one_way": null,
+      "cheapest_round_trip": 28769,
+      "cheapest_multi_city": 13953,
+      "airlines": [
+        "Pakistan International Airlines",
+        "Fly Jinnah",
+        "Emirates / flydubai",
+        "Etihad / Saudia"
+      ],
+      "total_options": 7
+    },
+    "KHI→MXP": {
+      "cheapest_one_way": 220812,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Emirates / flydubai"
+      ],
+      "total_options": 1
+    },
+    "KHI→NBO": {
+      "cheapest_one_way": 157308,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "flydubai"
+      ],
+      "total_options": 1
+    },
+    "KHI→NRT": {
+      "cheapest_one_way": 131939,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "THAI"
+      ],
+      "total_options": 1
+    },
+    "KHI→ORD": {
+      "cheapest_one_way": 233404,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Pakistan International Airlines / Etihad"
+      ],
+      "total_options": 1
+    },
+    "KHI→PEK": {
+      "cheapest_one_way": 141122,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "THAI"
+      ],
+      "total_options": 1
+    },
+    "KHI→PEW": {
+      "cheapest_one_way": 169209,
+      "cheapest_round_trip": 45395,
+      "cheapest_multi_city": 21470,
+      "airlines": [
+        "Etihad",
+        "Air Sial",
+        "Fly Jinnah"
+      ],
+      "total_options": 7
+    },
+    "KHI→PVG": {
+      "cheapest_one_way": 267698,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "THAI"
+      ],
+      "total_options": 1
+    },
+    "KHI→RUH": {
+      "cheapest_one_way": 179940,
+      "cheapest_round_trip": 140730,
+      "cheapest_multi_city": 107460,
+      "airlines": [
+        "Pakistan International Airlines",
+        "flydubai",
+        "Air Arabia",
+        "flyadeal",
+        "Qatar Airways",
+        "Etihad",
+        "Gulf Air",
+        "Emirates",
+        "Emirates / flydubai",
+        "SalamAir"
+      ],
+      "total_options": 23
+    },
+    "KHI→SAW": {
+      "cheapest_one_way": 123772,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "flydubai"
+      ],
+      "total_options": 1
+    },
+    "KHI→SHJ": {
+      "cheapest_one_way": 88957,
+      "cheapest_round_trip": 117228,
+      "cheapest_multi_city": 82620,
+      "airlines": [
+        "Pakistan International Airlines",
+        "Air Arabia",
+        "Qatar Airways",
+        "SalamAir"
+      ],
+      "total_options": 15
+    },
+    "KHI→SIN": {
+      "cheapest_one_way": 155329,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "THAI"
+      ],
+      "total_options": 1
+    },
+    "KHI→SKT": {
+      "cheapest_one_way": 18092,
+      "cheapest_round_trip": 37630,
+      "cheapest_multi_city": 18092,
+      "airlines": [
+        "Fly Jinnah",
+        "flydubai",
+        "Emirates / flydubai",
+        "flydubai / Emirates",
+        "Emirates",
+        "Qatar Airways",
+        "SalamAir"
+      ],
+      "total_options": 20
+    },
+    "KHI→SYD": {
+      "cheapest_one_way": 333090,
+      "cheapest_round_trip": 506536,
+      "cheapest_multi_city": 337235,
+      "airlines": [
+        "Qantas / Emirates / flydubai",
+        "Qatar Airways / Virgin Australia",
+        "flydubai / Emirates",
+        "Emirates",
+        "Etihad",
+        "SriLankan",
+        "Batik Air",
+        "THAI",
+        "SriLankan / Qantas"
+      ],
+      "total_options": 26
+    },
+    "KHI→UET": {
+      "cheapest_one_way": 121112,
+      "cheapest_round_trip": 77919,
+      "cheapest_multi_city": 38972,
+      "airlines": [
+        "Pakistan International Airlines",
+        "flydubai",
+        "Emirates / flydubai",
+        "Etihad / Pakistan International Airlines",
+        "SriLankan / flydubai"
+      ],
+      "total_options": 16
+    },
+    "KHI→VIE": {
+      "cheapest_one_way": 213012,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Emirates / flydubai"
+      ],
+      "total_options": 1
+    },
+    "KHI→YUL": {
+      "cheapest_one_way": 367262,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Emirates"
+      ],
+      "total_options": 1
+    },
+    "KHI→YVR": {
+      "cheapest_one_way": 436873,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Emirates / WestJet / flydubai"
+      ],
+      "total_options": 1
+    },
+    "KHI→YYZ": {
+      "cheapest_one_way": 343882,
+      "cheapest_round_trip": 461393,
+      "cheapest_multi_city": 263996,
+      "airlines": [
+        "Emirates / flydubai",
+        "Qatar Airways",
+        "flydubai / Emirates",
+        "Emirates",
+        "Etihad",
+        "Qatar Airways / Porter Airlines",
+        "Turkish Airlines",
+        "Turkish Airlines / Air Canada",
+        "Turkish Airlines / Lufthansa / Air Canada",
+        "Pakistan International Airlines"
+      ],
+      "total_options": 20
+    },
+    "LHE→AUH": {
+      "cheapest_one_way": 173730,
+      "cheapest_round_trip": 116346,
+      "cheapest_multi_city": 73510,
+      "airlines": [
+        "Etihad",
+        "Air Sial",
+        "Qatar Airways",
+        "Pakistan International Airlines",
+        "Pakistan International Airlines / Ethiopian",
+        "THAI / Etihad"
+      ],
+      "total_options": 14
+    },
+    "LHE→BAH": {
+      "cheapest_one_way": 152668,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Air Arabia / Fly Jinnah"
+      ],
+      "total_options": 1
+    },
+    "LHE→BCN": {
+      "cheapest_one_way": 293912,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad"
+      ],
+      "total_options": 1
+    },
+    "LHE→BHX": {
+      "cheapest_one_way": 289452,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad / AccesRail"
+      ],
+      "total_options": 1
+    },
+    "LHE→BKK": {
+      "cheapest_one_way": 166799,
+      "cheapest_round_trip": 280230,
+      "cheapest_multi_city": 166799,
+      "airlines": [
+        "China Southern",
+        "Qatar Airways",
+        "THAI"
+      ],
+      "total_options": 9
+    },
+    "LHE→CDG": {
+      "cheapest_one_way": 232372,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad"
+      ],
+      "total_options": 1
+    },
+    "LHE→DEL": {
+      "cheapest_one_way": 293190,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad"
+      ],
+      "total_options": 1
+    },
+    "LHE→DMM": {
+      "cheapest_one_way": 148875,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Airblue"
+      ],
+      "total_options": 1
+    },
+    "LHE→DOH": {
+      "cheapest_one_way": 151002,
+      "cheapest_round_trip": 146518,
+      "cheapest_multi_city": 120332,
+      "airlines": [
+        "Air Arabia / Fly Jinnah",
+        "Fly Jinnah / Air Arabia",
+        "Qatar Airways",
+        "Etihad",
+        "Pakistan International Airlines"
+      ],
+      "total_options": 15
+    },
+    "LHE→DXB": {
+      "cheapest_one_way": 79642,
+      "cheapest_round_trip": 120986,
+      "cheapest_multi_city": 79642,
+      "airlines": [
+        "Airblue",
+        "Pakistan International Airlines",
+        "Emirates",
+        "Qatar Airways",
+        "Saudia",
+        "Pakistan International Airlines / flydubai",
+        "Pakistan International Airlines / Emirates"
+      ],
+      "total_options": 20
+    },
+    "LHE→ISB": {
+      "cheapest_one_way": 11460,
+      "cheapest_round_trip": 20573,
+      "cheapest_multi_city": 10299,
+      "airlines": [
+        "Fly Jinnah",
+        "Pakistan International Airlines",
+        "Etihad",
+        "Azerbaijan Airlines"
+      ],
+      "total_options": 15
+    },
+    "LHE→IST": {
+      "cheapest_one_way": 150396,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Air Arabia / Fly Jinnah"
+      ],
+      "total_options": 1
+    },
+    "LHE→JED": {
+      "cheapest_one_way": 143250,
+      "cheapest_round_trip": 170696,
+      "cheapest_multi_city": 126845,
+      "airlines": [
+        "Airblue",
+        "Flynas",
+        "Fly Jinnah / Air Arabia",
+        "Fly Jinnah",
+        "Air Sial",
+        "Qatar Airways",
+        "Emirates",
+        "Pakistan International Airlines / Saudia",
+        "Saudia"
+      ],
+      "total_options": 20
+    },
+    "LHE→JFK": {
+      "cheapest_one_way": 514405,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad"
+      ],
+      "total_options": 1
+    },
+    "LHE→KHI": {
+      "cheapest_one_way": 58730,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Fly Jinnah"
+      ],
+      "total_options": 1
+    },
+    "LHE→KUL": {
+      "cheapest_one_way": 137789,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "THAI"
+      ],
+      "total_options": 1
+    },
+    "LHE→KWI": {
+      "cheapest_one_way": 250324,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad"
+      ],
+      "total_options": 1
+    },
+    "LHE→LHR": {
+      "cheapest_one_way": 211492,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad"
+      ],
+      "total_options": 1
+    },
+    "LHE→MCT": {
+      "cheapest_one_way": 327182,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad"
+      ],
+      "total_options": 1
+    },
+    "LHE→MED": {
+      "cheapest_one_way": 256411,
+      "cheapest_round_trip": 206814,
+      "cheapest_multi_city": 128181,
+      "airlines": [
+        "Etihad",
+        "Fly Jinnah / Air Arabia",
+        "Qatar Airways",
+        "Emirates",
+        "Saudia",
+        "Turkish Airlines",
+        "Qatar Airways / Royal Jordanian",
+        "Pakistan International Airlines / Emirates"
+      ],
+      "total_options": 24
+    },
+    "LHE→PEW": {
+      "cheapest_one_way": 133423,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad",
+        "Qatar Airways",
+        "Pakistan International Airlines",
+        "Pakistan International Airlines / Etihad",
+        "THAI / Emirates / Pakistan International Airlines",
+        "Emirates / Gulf Air / Etihad"
+      ],
+      "total_options": 9
+    },
+    "LHE→RUH": {
+      "cheapest_one_way": 853455,
+      "cheapest_round_trip": 126067,
+      "cheapest_multi_city": 118136,
+      "airlines": [
+        "Etihad",
+        "Fly Jinnah / Air Arabia",
+        "Air Sial",
+        "Flynas",
+        "Qatar Airways",
+        "Emirates",
+        "Emirates / flydubai"
+      ],
+      "total_options": 18
+    },
+    "LHE→SIN": {
+      "cheapest_one_way": 155329,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "THAI"
+      ],
+      "total_options": 1
+    },
+    "LHE→YYZ": {
+      "cheapest_one_way": 352102,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Etihad"
+      ],
+      "total_options": 1
+    },
+    "MUX→DXB": {
+      "cheapest_one_way": 104567,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Pakistan International Airlines"
+      ],
+      "total_options": 1
+    },
+    "MUX→JED": {
+      "cheapest_one_way": 133888,
+      "cheapest_round_trip": 169525,
+      "cheapest_multi_city": 131540,
+      "airlines": [
+        "Air Arabia",
+        "Air Sial",
+        "flydubai / Emirates",
+        "Saudia",
+        "flydubai",
+        "Pakistan International Airlines",
+        "Pakistan International Airlines / Flynas"
+      ],
+      "total_options": 25
+    },
+    "MUX→KHI": {
+      "cheapest_one_way": 14402,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Pakistan International Airlines"
+      ],
+      "total_options": 1
+    },
+    "PEW→JED": {
+      "cheapest_one_way": 146505,
+      "cheapest_round_trip": 207921,
+      "cheapest_multi_city": 146505,
+      "airlines": [
+        "Emirates",
+        "Air Arabia",
+        "Qatar Airways",
+        "Etihad",
+        "Emirates / flydubai",
+        "Qatar Airways / Oman Air",
+        "Emirates / flydubai / Flynas",
+        "Emirates / Flynas",
+        "Emirates / Saudia"
+      ],
+      "total_options": 27
+    },
+    "SKT→JED": {
+      "cheapest_one_way": 126819,
+      "cheapest_round_trip": 173584,
+      "cheapest_multi_city": 126819,
+      "airlines": [
+        "SalamAir",
+        "Air Arabia",
+        "Air Sial",
+        "flydubai / Emirates",
+        "flydubai",
+        "Qatar Airways"
+      ],
+      "total_options": 27
+    },
+    "UET→KHI": {
+      "cheapest_one_way": 85752,
+      "cheapest_round_trip": null,
+      "cheapest_multi_city": null,
+      "airlines": [
+        "Pakistan International Airlines"
+      ],
+      "total_options": 1
+    }
+  }
+}
